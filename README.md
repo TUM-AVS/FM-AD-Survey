@@ -12,15 +12,29 @@ This repository will collect research, implementations, and resources related to
 
 **Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
 
-<p align="center">
-<img src="Assets/Sec2_FMs_page-0001.jpg" width="100%" height="auto"/>
-</p>
-
 ## :fire: Updates
 - [May.2024] Repository initialized
 
+## 🤝 &nbsp; Citation
+Please visit [Foundational Models for Scenario Generation and Analysis in Autonomous Driving: A Comprehensive Survey](https://example.com/paper-to-be-published) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
+
+```BibTeX
+@article{FMs-for-Scenario-Generation-Analysis,
+  author={TBD},
+  title={Foundational Models for Scenario Generation and Analysis in Autonomous Driving},
+  journal={TBD},
+  year={2024},
+  pages={TBD},
+  doi={TBD}
+}
+```
+
 ## :page_with_curl: Introduction
 Foundational models are large-scale, pre-trained models that can be adapted to a wide range of downstream tasks. In the context of autonomous driving, foundational models offer a powerful approach to scenario generation and analysis, enabling more comprehensive and realistic testing, validation, and verification of autonomous driving systems. This repository aims to collect and organize research, tools, and resources in this important field.
+
+<p align="center">
+<img src="Assets/Sec2_FMs_page-0001.jpg" width="100%" height="auto"/>
+</p>
 
 ## 🌟 Research Areas (Coming Soon)
 
@@ -121,13 +135,6 @@ This section will include research on adapting and applying foundation models li
 | [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2412.12129) | 2024-12 | CVPR 2025 | - |
 | [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](/) | 2025-03 | - | - |
 
-## 🌟 Tools and Frameworks (Coming Soon)
-
-### Generative AI Tools
-This section will list tools for scenario generation and simulation based on foundational models.
-
-### Scenario Generation Frameworks
-This section will list frameworks for generating scenarios based on foundational models such as diffusion models and GANs.
 
 ## 🌟 Datasets (Coming Soon)
 
@@ -136,6 +143,14 @@ This section will list datasets relevant for training and evaluating foundationa
 
 ### Synthetic Data Generation
 This section will cover approaches for generating synthetic data using foundational models to supplement real-world datasets.
+
+## 🌟 Simulators (Coming Soon)
+
+### Generative AI Tools
+This section will list tools for scenario generation and simulation based on foundational models.
+
+### Scenario Generation Frameworks
+This section will list frameworks for generating scenarios based on foundational models such as diffusion models and GANs.
 
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.

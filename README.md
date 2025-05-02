@@ -36,16 +36,6 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 <img src="Assets/Sec2_FMs_page-0001.jpg" width="100%" height="auto"/>
 </p>
 
-## 🌟 Research Areas (Coming Soon)
-
-### Scenario Generation
-This section will include research on generating meaningful and comprehensive scenarios for testing autonomous driving systems using foundational models such as diffusion models, GANs, and other generative AI approaches.
-
-### Scenario Analysis
-This section will include research on analyzing scenarios using foundational models to verify safety properties and performance metrics of autonomous driving systems.
-
-### Foundation Models for Autonomous Driving
-This section will include research on adapting and applying foundation models like large language models (LLMs), vision-language models (VLMs), and generative models to various autonomous driving tasks.
 
 ## 🌟 Diffusion Models for Autonomous Driving
 
@@ -151,6 +141,14 @@ This section will list tools for scenario generation and simulation based on fou
 
 ### Scenario Generation Frameworks
 This section will list frameworks for generating scenarios based on foundational models such as diffusion models and GANs.
+
+## 🌟 Research Areas (Coming Soon)
+
+### Scenario Generation
+This section will include research on generating meaningful and comprehensive scenarios for testing autonomous driving systems using foundational models such as diffusion models, GANs, and other generative AI approaches.
+
+### Scenario Analysis
+This section will include research on analyzing scenarios using foundational models to verify safety properties and performance metrics of autonomous driving systems.
 
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.

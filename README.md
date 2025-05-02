@@ -12,6 +12,10 @@ This repository will collect research, implementations, and resources related to
 
 **Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
 
+<p align="center">
+<img src="Assets/00_concept_c.png" width="100%" height="auto"/>
+</p>
+
 ## :fire: Updates
 - [May.2024] Repository initialized
 

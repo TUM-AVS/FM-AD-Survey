@@ -10,7 +10,11 @@
 
 This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Chair of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
 
-**Keywords: Foundational Models, Large Language Models, Diffusion Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
+**Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
+
+<p align="center">
+<img src="Assets/Sec2_FMs_page-0001.jpg" width="500" height="auto"/>
+</p>
 
 ## :fire: Updates
 - [May.2024] Repository initialized

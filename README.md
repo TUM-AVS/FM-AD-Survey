@@ -8,7 +8,7 @@
 <a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="License Badge"/></a>
 </div>
 
-This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Chair of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
+This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Professorship of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
 
 **Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
 
@@ -25,7 +25,7 @@ Please visit [Foundational Models for Scenario Generation and Analysis in Autono
 ```BibTeX
 @article{FMs-for-Scenario-Generation-Analysis,
   author={TBD},
-  title={Foundational Models for Scenario Generation and Analysis in Autonomous Driving},
+  title={Foundational Models for Scenario Generation and Analysis in Autonomous Driving: A Comprehensive Survey},
   journal={TBD},
   year={2024},
   pages={TBD},
@@ -130,14 +130,6 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 | [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](/) | 2025-03 | - | - |
 
 
-## 🌟 Datasets (Coming Soon)
-
-### Autonomous Driving Datasets
-This section will list datasets relevant for training and evaluating foundational models for scenario generation and analysis in autonomous driving.
-
-### Synthetic Data Generation
-This section will cover approaches for generating synthetic data using foundational models to supplement real-world datasets.
-
 ## 🌟 Simulators (Coming Soon)
 
 ### Generative AI Tools
@@ -145,6 +137,32 @@ This section will list tools for scenario generation and simulation based on fou
 
 ### Scenario Generation Frameworks
 This section will list frameworks for generating scenarios based on foundational models such as diffusion models and GANs.
+
+## 🌟 Datasets for Autonomous Driving
+
+| Dataset | Year | Real | View | Img | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
+|:--------|:-----|:-----|:-----|:----|:------|:------|:-----|:---|:---|:-----|:--------|:-----|:-------|:--------|
+| CamVid | 2009 | ✅ | FPV | RGB | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D | U | - |
+| KITTI | 2013 | ✅ | FPV | RGB/S | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | D | U/R/H | - |
+| Cityscapes | 2016 | ✅ | FPV | RGB/S | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | D | U | - |
+| SYNTHIA | 2016 | ❌ | FPV | RGB | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| BDD100K | 2018 | ✅ | FPV | RGB | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D | U/H | - |
+| HighD | 2018 | ✅ | BEV | RGB | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | D | H | - |
+| KAIST | 2018 | ✅ | FPV | RGB/S | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
+| Argoverse | 2019 | ✅ | FPV | RGB/S | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
+| ApolloScape | 2019 | ✅ | FPV | RGB/S | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D | U | - |
+| nuScenes | 2020 | ✅ | FPV | RGB | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| Waymo Open | 2020 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| A*3D | 2020 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| PandaSet | 2021 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| ONCE | 2021 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
+| ZOD | 2022 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/R/S/H | Zenseact |
+| SCaRL | 2024 | ❌ | FPV/BEV | RGB/S | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/R/H | Fraunhofer |
+| MARS | 2024 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/H | NYU, MAY |
+| Scenes101 | 2024 | ✅ | FPV | RGB | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | D/N | U/S/R/H | Wayve |
+| TruckScenes | 2025 | ✅ | FPV | RGB | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | D/N | H/U | MAN |
+
+*Notes: View: FPV=First-Person, BEV=Bird's-Eye; Time: D=Day, N=Night; Region: U=Urban, R=Rural, H=Highway, S=Suburban; Img: RGB/S=RGB+Stereo*
 
 ## 🌟 Research Areas (Coming Soon)
 

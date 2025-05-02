@@ -13,7 +13,7 @@ This repository will collect research, implementations, and resources related to
 **Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
 
 <p align="center">
-<img src="Assets/Sec2_FMs_page-0001.jpg" width="500" height="auto"/>
+<img src="Assets/Sec2_FMs_page-0001.jpg" width="100%" height="auto"/>
 </p>
 
 ## :fire: Updates

@@ -5,7 +5,7 @@
 <a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/network/members"><img src="https://img.shields.io/github/forks/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Forks Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/pulls"><img src="https://img.shields.io/github/issues-pr/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/issues"><img src="https://img.shields.io/github/issues/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Issues Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="License Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="License Badge"/></a>
 </div>
 
 This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.ce.cit.tum.de/air/home/) (Chair of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.

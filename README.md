@@ -37,7 +37,7 @@ Please visit [Foundational Models for Scenario Generation and Analysis in Autono
 Foundational models are large-scale, pre-trained models that can be adapted to a wide range of downstream tasks. In the context of autonomous driving, foundational models offer a powerful approach to scenario generation and analysis, enabling more comprehensive and realistic testing, validation, and verification of autonomous driving systems. This repository aims to collect and organize research, tools, and resources in this important field.
 
 <p align="center">
-<img src="Assets/Sec2_FMs_page-0002.jpg" width="100%" height="auto"/>
+<img src="Assets/Sec2_FMs_page-0002.png" width="100%" height="auto"/>
 </p>
 
 

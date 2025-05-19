@@ -79,7 +79,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 
 ## 🌟 Large Language Models for Autonomous Driving
 
-### Scenario Generation
+### Scenario Generation (LLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
@@ -103,7 +103,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 | [SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing](https://dl.acm.org/doi/10.1145/3609026.3609580) | 2024-09 | ASE 2024 | - |
 | [LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models](https://dl.acm.org/doi/10.1145/3609026.3609034) | 2024-09 | ASE 2024 | - |
 
-### Scenario Analysis
+### Scenario Analysis (LLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
@@ -116,7 +116,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
 
-### Scenario Generation
+### Scenario Generation (MLLM)
 
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
@@ -124,7 +124,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 | [Realistic Corner Case Generation for Autonomous Vehicles with Multimodal Large Language Model](https://arxiv.org/abs/2411.09172) | 2024-11 | arXiv | - |
 | [LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos](https://arxiv.org/pdf/2501.09371) | 2025-01 | arXiv | [Website](https://anonymous.4open.science/r/CRISER/README.md) |
 
-### Scenario Analysis
+### Scenario Analysis (MLLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
@@ -148,7 +148,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 
 ## 🌟 Vision-Language Models for Autonomous Driving
 
-### Scenario Generation
+### Scenario Generation (VLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
@@ -158,7 +158,7 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 | [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/pdf/2411.16554) | 2024-11 | arXiv | - |
 | [From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events](https://arxiv.org/pdf/2411.16027) | 2024-11 | arXiv | - |
 
-### Scenario Analysis
+### Scenario Analysis (VLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|

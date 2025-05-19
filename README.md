@@ -115,6 +115,38 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 | [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/pdf/2411.16554) | 2024-11 | arXiv | - |
 | [SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving](https://arxiv.org/abs/2501.00745) | 2025-01 | arXiv | - |
 
+## 🌟 Multimodal Large Language Models for Autonomous Driving
+
+### Scenario Generation
+
+| Paper | Date | Venue | Code | 
+|:------|:-----|:------|:-----|
+| [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) | 2023-11 | CoRR 2023 | - |
+| [Realistic Corner Case Generation for Autonomous Vehicles with Multimodal Large Language Model](https://arxiv.org/abs/2411.09172) | 2024-11 | arXiv | - |
+| [LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos](https://arxiv.org/pdf/2501.09371) | 2025-01 | arXiv | [Website](https://anonymous.4open.science/r/CRISER/README.md) |
+
+### Scenario Analysis
+
+| Paper | Date | Venue | Code |
+|:------|:-----|:------|:-----|
+| [Lidar-llm: Exploring the potential of large language models for 3d lidar understanding](https://arxiv.org/abs/2312.14074) | 2023-12 | AAAI 2025 | [Website](https://sites.google.com/view/lidar-llm) |
+| [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438) | 2023-12 | ECCV 2024 | [Website](https://vlm-driver.github.io/) |
+| [AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model](https://arxiv.org/abs/2312.09649) | 2023-12 | IEEE IV 2024 | [Website](https://deepaccident.github.io/) |
+| [MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.pdf) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/LLVM-AD/MAPLM) |
+| [Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models](https://arxiv.org/abs/2401.02335) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/xmed-lab/NuInstruct) |
+| [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2405.16467) | 2024-05 | RSS 2024 | - |
+| [Semantic Understanding of Traffic Scenes with Large Vision Language Models](https://arxiv.org/abs/2406.08603) | 2024-06 | IEEE IV 2024 | [GitHub](https://github.com/sandeshrjain/lvlm-scene) |
+| [VLAAD: Vision and Language Assistant for Autonomous Driving](https://ieeexplore.ieee.org/document/10495690) | 2024-06 | WACVW 2024 | - |
+| [InternDrive: A Multimodal Large Language Model for Autonomous Driving Scenario Understanding](https://arxiv.org/abs/2407.10750) | 2024-07 | AIAHPC 2024 | - |
+| [Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events](https://www.mdpi.com/2624-8921/6/3/35) | 2024-09 | Vehicles 2024 MDPI | - |
+| [LingoQA: Visual Question Answering for Autonomous Driving](https://arxiv.org/abs/2309.11436) | 2024-09 | ECCV 2024 | [GitHub](https://github.com/wayveai/LingoQA) |
+| [MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios](https://arxiv.org/abs/2412.09358) | 2024-12 | arXiv | [GitHub](https://github.com/fjq-tongji/MLLM-SUL) |
+| [ScVLM: Enhancing Vision-Language Model for Safety-Critical Event Understanding](https://arxiv.org/abs/2502.06124) | 2025-02 | WACV Workshop 2025 | [GitHub](https://github.com/datadrivenwheels/ScVLM) |
+| [A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving](https://arxiv.org/abs/2503.14557) | 2025-03 | IEEE IAVVC 2025 (Under Review) | - |
+| [DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding](https://arxiv.org/abs/2503.09847) | 2025-03 | arXiv | [GitHub](https://github.com/ayesha-ishaq/DriveLMM-o1) |
+| [NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving](https://arxiv.org/abs/2503.18089) | 2025-03 | arXiv | - |
+| [HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](https://arxiv.org/abs/2503.18083) | 2025-03 | International Journal of Computer Vision | - |
+
 ## 🌟 Vision-Language Models for Autonomous Driving
 
 | Paper | Date | Venue | Code |
@@ -265,37 +297,4 @@ We welcome contributions from the community! If you have research papers, tools,
 ## License
 This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/blob/main/LICENSE). 
 
-## 🌟 Multimodal Large Language Models for Autonomous Driving
-
-### Scenario Generation
-
-| Paper | Date | Venue | Code | 
-|:------|:-----|:------|:-----|
-| [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) | 2023-11 | CoRR 2023 | - |
-| [Realistic Corner Case Generation for Autonomous Vehicles with Multimodal Large Language Model](https://arxiv.org/abs/2411.09172) | 2024-11 | arXiv | - |
-| [LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos](https://arxiv.org/pdf/2501.09371) | 2025-01 | arXiv | [Website](https://anonymous.4open.science/r/CRISER/README.md) |
-
-### Scenario Analysis
-
-| Paper | Date | Venue | Code |
-|:------|:-----|:------|:-----|
-| [Lidar-llm: Exploring the potential of large language models for 3d lidar understanding](https://arxiv.org/abs/2312.14074) | 2023-12 | AAAI 2025 | [Website](https://sites.google.com/view/lidar-llm) |
-| [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438) | 2023-12 | ECCV 2024 | [Website](https://vlm-driver.github.io/) |
-| [AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model](https://arxiv.org/abs/2312.09649) | 2023-12 | IEEE IV 2024 | [Website](https://deepaccident.github.io/) |
-| [MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.pdf) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/LLVM-AD/MAPLM) |
-| [Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models](https://arxiv.org/abs/2401.02335) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/xmed-lab/NuInstruct) |
-| [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2405.16467) | 2024-05 | RSS 2024 | - |
-| [Semantic Understanding of Traffic Scenes with Large Vision Language Models](https://arxiv.org/abs/2406.08603) | 2024-06 | IEEE IV 2024 | [GitHub](https://github.com/sandeshrjain/lvlm-scene) |
-| [VLAAD: Vision and Language Assistant for Autonomous Driving](https://ieeexplore.ieee.org/document/10495690) | 2024-06 | WACVW 2024 | - |
-| [InternDrive: A Multimodal Large Language Model for Autonomous Driving Scenario Understanding](https://arxiv.org/abs/2407.10750) | 2024-07 | AIAHPC 2024 | - |
-| [Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events](https://www.mdpi.com/2624-8921/6/3/35) | 2024-09 | Vehicles 2024 MDPI | - |
-| [LingoQA: Visual Question Answering for Autonomous Driving](https://arxiv.org/abs/2309.11436) | 2024-09 | ECCV 2024 | [GitHub](https://github.com/wayveai/LingoQA) |
-| [MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios](https://arxiv.org/abs/2412.09358) | 2024-12 | arXiv | [GitHub](https://github.com/fjq-tongji/MLLM-SUL) |
-| [ScVLM: Enhancing Vision-Language Model for Safety-Critical Event Understanding](https://arxiv.org/abs/2502.06124) | 2025-02 | WACV Workshop 2025 | [GitHub](https://github.com/datadrivenwheels/ScVLM) |
-| [A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving](https://arxiv.org/abs/2503.14557) | 2025-03 | IEEE IAVVC 2025 (Under Review) | - |
-| [DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding](https://arxiv.org/abs/2503.09847) | 2025-03 | arXiv | [GitHub](https://github.com/ayesha-ishaq/DriveLMM-o1) |
-| [NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving](https://arxiv.org/abs/2503.18089) | 2025-03 | arXiv | - |
-| [HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](https://arxiv.org/abs/2503.18083) | 2025-03 | International Journal of Computer Vision | - |
-
-## 🌟 Vision-Language Models for Autonomous Driving
 ``` 

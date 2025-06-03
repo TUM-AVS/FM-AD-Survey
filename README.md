@@ -1,11 +1,11 @@
-# Foundational Models for Scenario Generation and Analysis in Autonomous Driving :car:
+# Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis :car:
 <div align="center">
 <a href="https://example.com/paper-to-be-published"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/stargazers"><img src="https://img.shields.io/github/stars/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Stars Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/network/members"><img src="https://img.shields.io/github/forks/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Forks Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/pulls"><img src="https://img.shields.io/github/issues-pr/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/issues"><img src="https://img.shields.io/github/issues/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="Issues Badge"/></a>
-<a href="https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-for-Scenario-Generation-Analysis" alt="License Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/stargazers"><img src="https://img.shields.io/github/stars/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="Stars Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/network/members"><img src="https://img.shields.io/github/forks/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="Forks Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/pulls"><img src="https://img.shields.io/github/issues-pr/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/issues"><img src="https://img.shields.io/github/issues/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="Issues Badge"/></a>
+<a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="License Badge"/></a>
 </div>
 
 This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Professorship of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
@@ -313,6 +313,6 @@ Foundational models are large-scale, pre-trained models that can be adapted to a
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.
 
 ## License
-This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-for-Scenario-Generation-Analysis/blob/main/LICENSE). 
+This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/blob/main/LICENSE). 
 
 ``` 

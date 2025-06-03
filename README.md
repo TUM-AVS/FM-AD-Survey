@@ -10,7 +10,10 @@
 
 This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Professorship of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
 
-**Keywords: Foundational Models, Large Language Models, Multimodal Large Language Modals, Vision Language Models, Diffusion Models, World Models, Scenario Generation, Scenario Analysis, Autonomous Driving, Safety Assurance**
+**Keywords:**
+- **Foundation Model Types:** Foundation Models, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Large Language Models (MLLMs), Diffusion Models, World Models, Generative Models
+- **Scenario Generation & Analysis:** Scenario Generation, Scenario Simulation, Traffic Simulation, Scenario Testing, Scenario Understanding, Driving Scene Generation, Scene Reasoning, Risk Assessment, Safety-Critical Scenarios, Accident Prediction
+- **Application Context:** Autonomous Driving, Self-Driving Vehicles, AV Simulation, Driving Video Generation, Traffic Datasets, Closed-Loop Simulation, Safety Assurance
 
 <p align="center">
 <img src="Assets/00_concept_c.png" width="100%" height="auto"/>
@@ -20,12 +23,12 @@ This repository will collect research, implementations, and resources related to
 - [May.2024] Repository initialized
 
 ## 🤝 &nbsp; Citation
-Please visit [Foundational Models for Scenario Generation and Analysis in Autonomous Driving: A Comprehensive Survey](https://example.com/paper-to-be-published) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis](https://example.com/paper-to-be-published) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
 @article{FMs-for-Scenario-Generation-Analysis,
   author={TBD},
-  title={Foundational Models for Scenario Generation and Analysis in Autonomous Driving: A Comprehensive Survey},
+  title={Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis},
   journal={TBD},
   year={2024},
   pages={TBD},

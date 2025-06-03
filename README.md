@@ -8,10 +8,10 @@
 <a href="https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis" alt="License Badge"/></a>
 </div>
 
-This repository will collect research, implementations, and resources related to **Foundational Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Professorship of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
+This repository will collect research, implementations, and resources related to **Foundation Models for Scenario Generation and Analysis** in autonomous driving. The repository will be maintained by [TUM-AVS](https://www.mos.ed.tum.de/avs/startseite/) (Professorship of Autonomous Vehicle Systems at Technical University of Munich) and will be continuously updated to track the latest work in the community.
 
 **Keywords:**
-- **Foundation Model Types:** Foundation Models, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Large Language Models (MLLMs), Diffusion Models, World Models, Generative Models
+- **Foundation Model Types:** Foundation Models, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Large Language Models (MLLMs), Diffusion Models (DMs), World Models (WMs), Generative Models (GMs)
 - **Scenario Generation & Analysis:** Scenario Generation, Scenario Simulation, Traffic Simulation, Scenario Testing, Scenario Understanding, Driving Scene Generation, Scene Reasoning, Risk Assessment, Safety-Critical Scenarios, Accident Prediction
 - **Application Context:** Autonomous Driving, Self-Driving Vehicles, AV Simulation, Driving Video Generation, Traffic Datasets, Closed-Loop Simulation, Safety Assurance
 
@@ -26,7 +26,7 @@ This repository will collect research, implementations, and resources related to
 Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis](https://example.com/paper-to-be-published) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
-@article{FMs-for-Scenario-Generation-Analysis,
+@article{Foundation-Models-AV-Dual-Survey,
   author={TBD},
   title={Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis},
   journal={TBD},
@@ -37,12 +37,18 @@ Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario
 ```
 
 ## :page_with_curl: Introduction
-Foundational models are large-scale, pre-trained models that can be adapted to a wide range of downstream tasks. In the context of autonomous driving, foundational models offer a powerful approach to scenario generation and analysis, enabling more comprehensive and realistic testing, validation, and verification of autonomous driving systems. This repository aims to collect and organize research, tools, and resources in this important field.
+Foundation models are large-scale, pre-trained models that can be adapted to a wide range of downstream tasks. In the context of autonomous driving, foundation models offer a powerful approach to scenario generation and analysis, enabling more comprehensive and realistic testing, validation, and verification of autonomous driving systems. This repository aims to collect and organize research, tools, and resources in this important field.
 
 <p align="center">
 <img src="Assets/Sec2_FMs_page-0002.png" width="100%" height="auto"/>
 </p>
 
+## :chart_with_upwards_trend: Publication Timeline
+The following figure shows the evolution of foundation model research in autonomous driving scenario generation and analysis over time:
+
+<p align="center">
+<img src="Assets/timeline.png" width="100%" height="auto"/>
+</p>
 
 ## 🌟 Diffusion Models for Autonomous Driving
 

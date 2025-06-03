@@ -66,26 +66,26 @@ The following figure shows the evolution of foundation model research in autonom
 | [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) | 2023-11 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | Scenario Generation |
 | [SAFE-SIM: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03157-supp.pdf) | 2023-12 | ECCV 2024 | [GitHub](https://github.com/jxmmy7777/safe-sim) | Scenario Generation |
 | [Text2Street: Controllable Text-to-image Generation for Street Views](https://arxiv.org/abs/2402.04504) | 2024-02 | ICPR 2024 | - | Scenario Generation |
-| [GEODIFFUSION: Text-Prompted Geometric Control for Object Detection Data Generation](https://arxiv.org/pdf/2306.04607) | 2024-02 | ICLR 2024 | [GitHub](https://kaichen1998.github.io/projects/geodiffusion/) | Scenario Generation |
+| [GEODIFFUSION: Text-Prompted Geometric Control for Object Detection Data Generation](https://arxiv.org/pdf/2306.04607) | 2024-02 | LCLR 2024 | [GitHub](https://kaichen1998.github.io/projects/geodiffusion/) | Scenario Generation |
 | [GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model](https://arxiv.org/abs/2408.15868) | 2024-04 | ITSC 2024 | - | Scenario Generation |
 | [Versatile Behavior Diffusion for Generalized Traffic Agent Simulation](https://arxiv.org/abs/2404.02524) | 2024-04 | RSS 2024 | [GitHub](https://github.com/SafeRoboticsLab/VBD) | Scenario Generation |
 | [SceneControl: Diffusion for Controllable Traffic Scene Generation](https://waabi.ai/scenecontrol/) | 2024-05 | ICRA 2024 | - | Scenario Generation |
-| [DrivingGen: Efficient Safety-Critical Driving Video Generation with Latent Diffusion Models](https://ieeexplore.ieee.org/document/10688119) | 2024-07 | ICME 2024 | - | Scenario Generation |
 | [SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic](https://arxiv.org/abs/2403.17933) | 2024-07 | ECCV 2024 | [GitHub](https://github.com/autonomousvision/sledge) | Scenario Generation |
-| [Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations](https://arxiv.org/abs/2410.04809) | 2024-10 | arXiv | - | Scenario Generation |
+| [DrivingGen: Efficient Safety-Critical Driving Video Generation with Latent Diffusion Models](https://ieeexplore.ieee.org/document/10688119) | 2024-07 | ICME 2024 | - | Scenario Generation |
 | [AdvDiffuser: Generating Adversarial Safety-Critical Driving Scenarios via Guided Diffusion](https://ieeexplore.ieee.org/abstract/document/10802408) | 2024-10 | IROS 2023 | - | Scenario Generation |
+| [Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations](https://arxiv.org/abs/2410.04809) | 2024-10 | arXiv | - | Scenario Generation |
 | [DiffRoad: Realistic and Diverse Road Scenario Generation for Autonomous Vehicle Testing](https://arxiv.org/abs/2411.09451) | 2024-11 | arXiv | - | Scenario Generation |
 | [SceneDiffuser: Efficient and Controllable Driving Simulation Initialization and Rollout](https://arxiv.org/pdf/2412.12129) | 2024-12 | NeurIPS 2024 | [GitHub](https://scenediffuser.github.io/) | Scenario Generation |
 | [Direct Preference Optimization-Enhanced Multi-Guided Diffusion Model for Traffic Scenario Generation](https://arxiv.org/abs/2502.12178) | 2025-02 | arXiv | - | Scenario Generation |
 | [Causal Composition Diffusion Model for Closed-loop Traffic Generation](https://arxiv.org/abs/2412.17920) | 2025-02 | arXiv | - | Scenario Generation |
 | [AVD2: Accident Video Diffusion for Accident Video Description](https://arxiv.org/pdf/2502.14801) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/An-Answer-tree/AVD2) | Scenario Generation, Scenario Analysis |
 | [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | arXiv | - | Scenario Generation |
-| [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2503.05808) | 2025-03 | arXiv | - | Scenario Generation |
 | [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](https://arxiv.org/abs/2503.22496) | 2025-03 | arXiv | - | Scenario Generation |
-| [DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer](https://arxiv.org/abs/2504.DiVE) | 2025-04 | arXiv | - | Scenario Generation |
+| [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2503.05808) | 2025-03 | arXiv | - | Scenario Generation |
+| [DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer](https://arxiv.org/abs/2504.00000) | 2025-04 | arXiv | - | Scenario Generation |
 | [DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion](https://www.arxiv.org/abs/2505.01857) | 2025-05 | arXiv | - | Scenario Generation |
+| [LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios](https://arxiv.org/abs/2505.00000) | 2025-05 | arXiv | - | Scenario Generation |
 | [Dual-Conditioned Temporal Diffusion Modeling for Driving Scene Generation](https://zzzura-secure.duckdns.org/dctdm) | 2025-05 | ICAR 2025 | [GitHub](https://github.com/PeteBai/DcTDM) | Scenario Generation |
-| [LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios](https://arxiv.org/abs/2505.LD-Scene) | 2025-05 | arXiv | - | Scenario Generation |
 
 ## 🌟 Large Language Models for Autonomous Driving
 
@@ -100,92 +100,65 @@ The following figure shows the evolution of foundation model research in autonom
 | [Enhancing Autonomous Vehicle Training with Language Model Integration and Critical Scenario Generation](https://arxiv.org/abs/2404.08570) | 2024-04 | arXiv | [GitHub](https://github.com/zachtian/CRITICAL) |
 | [LLMScenario: Large Language Model Driven Scenario Generation](https://ieeexplore.ieee.org/document/10529537) | 2024-05 | IEEE Transactions on Systems, Man, and Cybernetics: Systems | - |
 | [Automatic Generation Method for Autonomous Driving Simulation Scenarios Based on Large Language Model](https://link.springer.com/chapter/10.1007/978-981-96-3977-9_10) | 2024-05 | AIAT 2024 | - |
-| [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10611018) | 2024-05 | ICRA 2024 | [GitHub](https://github.com/wayveai/Driving-with-LLMs) |
-| [ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles](https://arxiv.org/abs/2405.14062) | 2024-05 | ECCV 2024 | - |
+| [ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10655362) | 2024-05 | CVPR 2024 | [GitHub](https://github.com/javyduck/ChatScene) |
 | [Editable scene simulation for autonomous driving via collaborative llm-agents](https://ieeexplore.ieee.org/document/10656629) | 2024-06 | CVPR 2024 | [GitHub](https://github.com/yifanlu0227/ChatSim) |
 | [Chat2Scenario: Scenario Extraction From Dataset Through Utilization of Large Language Model](https://ieeexplore.ieee.org/document/10588843) | 2024-06 | IV 2024 | [GitHub](https://github.com/ftgTUGraz/Chat2Scenario) |
-| [LLMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488) | 2024-07 | CVPR 2024 | [GitHub](https://github.com/opendilab/LMDrive) |
 | [SoVAR: Building Generalizable Scenarios from Accident Reports for Autonomous Driving Testing](https://arxiv.org/abs/2409.08081) | 2024-09 | ASE 2024 | - |
-| [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/abs/2309.16292) | 2024-09 | ICLR 2024 | [GitHub](https://pjlab-adg.github.io/DiLu_Page/) |
 | [LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models](https://arxiv.org/abs/2409.10066) | 2024-09 | ASE 2024 | [GitHub](https://github.com/MayDGT/LeGEND) |
 | [Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model](https://arxiv.org/abs/2409.09575) | 2024-09 | arXiv | [GitHub](https://github.com/basiclab/TTSG) |
 | [Promptable Closed-loop Traffic Simulation](https://arxiv.org/abs/2409.05863) | 2024-09 | CoRL 2024 | [GitHub](https://ariostgx.github.io/ProSim/) |
-| [Agent Driver: A Conversational LLM Framework for Human-Vehicle Interaction](https://ieeexplore.ieee.org/document/10640507) | 2024-10 | IV 2024 | - |
-| [Feasibility and Acceptability of Language Model Agent for Negotiation in Traffic](https://arxiv.org/abs/2410.05008) | 2024-10 | arXiv | - |
-| [LLM-Drive: Closed-loop End-to-end Driving with Large Language Models](https://github.com/henrique111222333/LLMDrive) | 2024-11 | - | [GitHub](https://github.com/henrique111222333/LLMDrive) |
+| [Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles](https://arxiv.org/abs/2409.06450) | 2024-09 | arXiv | - |
 | [LLM-Driven Testing for Autonomous Driving Scenarios](https://ieeexplore.ieee.org/document/10852505) | 2024-11 | FLLM 2024 | - |
 | [ChatSUMO: Large Language Model for Automating Traffic Scenario Generation in Simulation of Urban MObility](https://ieeexplore.ieee.org/document/10770822) | 2024-11 | IEEE Transactions on Intelligent Vehicles | - |
-| [Drive-by-LLM: Leveraging Large Language Models for Safe and Efficient Autonomous Driving](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YOUR_USER_ID&citation_for_view=YOUR_USER_ID:citation_id) | 2024-12 | - | - |
+| [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/abs/2411.16554) | 2024-11 | arXiv | - |
 | [Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner](https://arxiv.org/abs/2412.18086) | 2024-12 | AAAI 2025 Oral | [GitHub](https://ezharjan.github.io/AutoSceneGen/) |
 | [LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models](https://arxiv.org/abs/2501.15850) | 2025-01 | arXiv | - |
 | [Risk-Aware Driving Scenario Analysis with Large Language Models](https://arxiv.org/abs/2502.02145) | 2025-02 | arXiv | [GitHub](https://github.com/TUM-AVS/From-Words-to-Collisions) |
+| [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
 | [Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test](https://arxiv.org/abs/2503.02911) | 2025-03 | arXiv | [GitHub](https://caixxuan.github.io/Text2Scenario.GitHub.io/) |
-| [A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation](https://arxiv.org/abs/2503.05164) | 2025-03 | arXiv | - |
 | [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://arxiv.org/abs/2505.00972) | 2025-05 | arXiv | - |
 
 ### Scenario Analysis (LLM)
 
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
-| [Semantic Anomaly Detection with Large Language Models](https://openaccess.thecvf.com/content/ICCV2023W/AICCV/papers/Divekar_Towards_Understanding_Context_and_Sub-Context_for_Semantic_Anomaly_Detection_in_ICCVW_2023_paper.pdf) | 2023-09 | ICCV Workshop 2023 | - |
-| [A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning](https://arxiv.org/abs/2311.07954) | 2023-11 | arXiv | - |
-| [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://ieeexplore.ieee.org/document/10575589) | 2024-01 | IEEE Robotics and Automation Letters 2024 | [GitHub](https://tonyxuqaq.github.io/projects/DriveGPT4/) |
-| [Understanding the Driving Scene Description with Large Language Models](https://ieeexplore.ieee.org/document/10646063) | 2024-02 | IV 2024 | - |
-| [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2402.01697) | 2024-02 | WACV 2024 | [GitHub](https://github.com/PJLab-ADG/DriveLikeAHuman) |
-| [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) | 2024-03 | CVPR 2024 | [GitHub](https://github.com/VDIGPKU/DrivingGaussian) |
-| [DrivingDojo: Democratizing Autonomous Driving Simulation at Scale](https://arxiv.org/abs/2409.13349) | 2024-09 | NeurIPS 2024 | [GitHub](https://driving-dojo.github.io/) |
-| [Exploring Risk-Aware Driving Scenarios with LLM for Autonomous Vehicle Testing](https://ieeexplore.ieee.org/document/10588829) | 2024-09 | IV 2024 | - |
-| [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://openreview.net/forum?id=jw8P8rZaDZ) | 2024-10 | ICLR 2024 | [GitHub](https://github.com/pjlab-adg/SafeDiffuser) |
-| [MotionLLM: Multimodal Motion-Language Reasoning](https://arxiv.org/abs/2405.20013) | 2024-10 | NeurIPS 2024 | [GitHub](https://github.com/zgzxy001/MotionLLM) |
-| [TUMTraffic-VideoQA: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes](https://arxiv.org/abs/2501.01846) | 2025-01 | ICML 2025 | [GitHub](https://github.com/Lumos-Bot/TUMTrafic-VideoQA) |
-| [ULS-AV: Safety Assessment of Ultra Large-Scale Autonomous Vehicle System with Vision Language Model](https://ieeexplore.ieee.org/document/10742698) | 2025-01 | arXiv | [GitHub](https://github.com/LingKang28/ULS-AV) |
-| [Language as Context: Decoding Road Scene Language with Multi-Modal Foundation Models for Autonomous Driving](https://ieeexplore.ieee.org/document/10845653) | 2025-01 | CORL 2024 | - |
-| [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/abs/2411.10740) | 2024-12 | NeurIPS 2024 | [GitHub](https://langsurf.github.io/)
+| [Semantic Anomaly Detection with Large Language Models](https://arxiv.org/abs/2305.11307) | 2023-09 | Autonomous Robots | - |
+| [LLM Multimodal Traffic Accident Forecasting](https://www.mdpi.com/1424-8220/23/22/9225) | 2023-11 | Sensors 2023 MDPI | - |
+| [Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models](https://arxiv.org/abs/2403.09906) | 2024-03 | IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge) | [GitHub](https://github.com/Simula-COMPLEX/RealityBites) |
+| [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10611018) | 2024-05 | ICRA 2024 | [GitHub](https://github.com/wayveai/Driving-with-LLMs) |
+| [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/abs/2411.16554) | 2024-11 | arXiv | - |
+| [SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving](https://arxiv.org/abs/2501.03535) | 2025-01 | arXiv | - |
+| [Risk-Aware Driving Scenario Analysis with Large Language Models](https://arxiv.org/abs/2502.02145) | 2025-02 | arXiv | [GitHub](https://github.com/TUM-AVS/From-Words-to-Collisions) |
+| [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
+| [A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation](https://arxiv.org/abs/2503.05164) | 2025-03 | arXiv | - |
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
 
-### Scenario Generation (MLLM)
-
-| Paper | Date | Venue | Code |
-|:------|:-----|:------|:-----|
-| [VehicleGPT: A Mobile Large Language Model Platform for Intelligent Vehicles](https://ieeexplore.ieee.org/document/10640503) | 2023-08 | IV 2024 | - |
-| [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) | 2023-10 | arXiv | - |
-| [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488) | 2023-12 | CVPR 2024 | [GitHub](https://github.com/opendilab/LMDrive) |
-| [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245) | 2023-12 | arXiv | [GitHub](https://github.com/OpenGVLab/DriveMLM) |
-| [On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/abs/2311.05332) | 2023-12 | CVPR Workshop 2024 | [GitHub](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) |
-| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150) | 2023-12 | ECCV 2024 | [GitHub](https://github.com/OpenDriveLab/DriveLM) |
-| [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/abs/2402.12289) | 2024-02 | arXiv | - |
-| [Can We Use Large Language Models for Real-Time Safety-Critical Decision Making in Autonomous Driving?](https://arxiv.org/abs/2402.02848) | 2024-02 | arXiv | - |
-| [SurroundScript: Generating Autonomous Driving World Models from Natural Language](https://ieeexplore.ieee.org/document/10606667) | 2024-04 | ICRA 2024 | - |
-| [DMT: Dynamic Mutual Training for Semi-Supervised Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Feng_DMT_Dynamic_Mutual_Training_for_Semi-Supervised_Learning_CVPR_2024_paper.pdf) | 2024-04 | CVPR 2024 | [GitHub](https://github.com/JackWangPair/DMT) |
-| [DriveCoT: Agent Framework for Autonomous Driving](https://arxiv.org/abs/2404.13333) | 2024-04 | arXiv | - |
-| [Generating CAVs Cooperative Merging Strategies for Mixed Traffic Environment Using LLMs](https://ieeexplore.ieee.org/document/10575629) | 2024-05 | IV 2024 | - |
-| [DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://arxiv.org/abs/2308.00398) | 2024-05 | ICLR 2024 | [GitHub](https://github.com/OpenDriveLab/DriveAdapter) |
-| [GPT-4o as an End-to-End Autonomous Driving System](https://arxiv.org/abs/2405.01692) | 2024-05 | arXiv | - |
-| [BEVWorld: A Multimodal World Model for Autonomous Driving via Unified BEV Latent Space](https://arxiv.org/abs/2407.05679) | 2024-07 | arXiv | [GitHub](https://github.com/zhangyp15/BEVWorld) |
-| [RoadBEV: Road Surface Reconstruction in Bird's Eye View](https://arxiv.org/abs/2404.06605) | 2024-07 | ECCV 2024 | [GitHub](https://github.com/ztsrxh/RoadBEV) |
-| [VLMAgent: A Multimodal Large Language Model Framework for Autonomous Driving Scenarios](https://ieeexplore.ieee.org/document/10681593) | 2024-08 | arXiv | - |
-| [Real-Time Traffic Safety Assessment Using Foundation Models](https://ieeexplore.ieee.org/document/10588877) | 2024-08 | IV 2024 | - |
-| [PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) | 2024-08 | arXiv | [GitHub](https://github.com/PlanAgent/PlanAgent) |
-| [Language-Guided Hybrid Motion Planning](https://ieeexplore.ieee.org/document/10588847) | 2024-08 | IV 2024 | - |
-| [VideoLLaMB: Long Video Understanding with Recurrent Memory Bridges](https://arxiv.org/abs/2409.01071) | 2024-09 | arXiv | [GitHub](https://videollamb.github.io/) |
-| [DataSP: Adapting Vision Foundation Models for Automated Measurement in Automotive Service](https://ieeexplore.ieee.org/document/10640543) | 2024-09 | IV 2024 | - |
-| [Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots](https://arxiv.org/abs/2409.10277) | 2024-09 | arXiv | [GitHub](https://github.com/tsinghua-fib-lab/cognitive-kernel) |
-| [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/abs/2405.01533) | 2024-10 | arXiv | [GitHub](https://github.com/NVlabs/OmniDrive) |
-| [FusionLLM: A Decentralized LLM Training System on Geo-distributed GPUs with Adaptive Compression](https://arxiv.org/abs/2410.12707) | 2024-10 | arXiv | [GitHub](https://github.com/OpenLMLab/FusionLLM) |
-| [GPT-4V for Video-based Urban Safety Research](https://arxiv.org/abs/2410.17744) | 2024-10 | arXiv | - |
-| [OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions](https://arxiv.org/abs/2505.07230) | 2025-05 | arXiv | [GitHub](https://github.com/alxkm/OpenLKA)
-
-### Scenario Analysis (MLLM)
-
-| Paper | Date | Venue | Code |
-|:------|:-----|:------|:-----|
-| [Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases](https://arxiv.org/abs/2404.10595) | 2024-04 | WACV2025 | [GitHub](https://github.com/Dongmin-Cho/Self-Driving-Corner-Cases) |
-| [A Vision-Language Foundation Model for Autonomous Driving](https://arxiv.org/abs/2405.17968) | 2024-05 | arXiv | - |
-| [MotionLLM: Multimodal Motion-Language Reasoning](https://arxiv.org/abs/2405.17013) | 2024-05 | NeurIPS 2024 | [GitHub](https://github.com/IDEA-Research/MotionLLM) |
-| [Multi-modal Large Language Model Driven Scenario Testing for Autonomous Vehicles](https://arxiv.org/abs/2408.01699) | 2024-08 | arXiv | - |
-| [Cognitive Kernel: An Open-source Agent System towards Generalist Autopilots](https://arxiv.org/abs/2409.10277) | 2024-09 | arXiv | [GitHub](https://github.com/tsinghua-fib-lab/cognitive-kernel) |
-| [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/abs/2411.17635) | 2024-11 | NeurIPS 2024 | [GitHub](https://github.com/LangSurf/LangSurf) |
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412) | 2023-10 | IEEE Robotics and Automation Letters 2024 | [GitHub](https://tonyxuqaq.github.io/projects/DriveGPT4/) | Scenario Analysis |
+| [Dolphins: Multimodal Language Model for Driving](https://arxiv.org/abs/2312.00438) | 2023-12 | ECCV 2024 | [GitHub](https://vlm-driver.github.io/) | Scenario Analysis |
+| [AccidentGPT: Accident analysis and prevention from V2X Environmental Perception with Multi-modal Large Model](https://arxiv.org/abs/2312.13156) | 2023-12 | IV 2024 | [GitHub](https://deepaccident.github.io/) | Scenario Analysis |
+| [Lidar-llm: Exploring the potential of large language models for 3d lidar understanding](https://arxiv.org/abs/2312.14074) | 2023-12 | AAAI 2025 | [GitHub](https://sites.google.com/view/lidar-llm) | Scenario Analysis |
+| [LingoQA: Visual Question Answering for Autonomous Driving](https://arxiv.org/abs/2312.14115) | 2023-12 | ECCV 2024 | [GitHub](https://github.com/wayveai/LingoQA) | Scenario Analysis |
+| [Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models](https://arxiv.org/abs/2401.00988) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/xmed-lab/NuInstruct) | Scenario Analysis |
+| [MAPLM: A Real-World Large-Scale Vision-Language Benchmark for Map and Traffic Scene Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Cao_MAPLM_A_Real-World_Large-Scale_Vision-Language_Benchmark_for_Map_and_Traffic_CVPR_2024_paper.pdf) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/LLVM-AD/MAPLM) | Scenario Analysis |
+| [WTS: A Pedestrian-Centric Traffic Video Dataset for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/abs/2407.15350) | 2024-06 | ECCV 2024 | [GitHub](https://woven-visionai.github.io/wts-dataset-homepage/) | Scenario Analysis |
+| [Semantic Understanding of Traffic Scenes with Large Vision Language Models](https://ieeexplore.ieee.org/document/10588373) | 2024-06 | IV 2024 | [GitHub](https://github.com/sandeshrjain/lvlm-scene) | Scenario Analysis |
+| [VLAAD: Vision and Language Assistant for Autonomous Driving](https://ieeexplore.ieee.org/document/10495690) | 2024-06 | WACVW 2024 | [GitHub](https://ieeexplore.ieee.org/document/10495690) | Scenario Analysis |
+| [InternDrive: A Multimodal Large Language Model for Autonomous Driving Scenario Understanding](https://dl.acm.org/doi/10.1145/3690931.3690982) | 2024-07 | AIAHPC 2024 | - | Scenario Analysis |
+| [LingoQA: Visual Question Answering for Autonomous Driving](https://arxiv.org/abs/2312.14115) | 2024-09 | ECCV 2024 | [GitHub](https://github.com/wayveai/LingoQA) | Scenario Analysis |
+| [Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events](https://www.mdpi.com/2624-8921/6/3/74) | 2024-09 | Vehicles 2024 MDPI | - | Scenario Analysis |
+| [Realistic Corner Case Generation for Autonomous Vehicles with Multimodal Large Language Model](https://arxiv.org/pdf/2412.00243) | 2024-11 | arXiv | - | Scenario Generation |
+| [MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios](https://arxiv.org/abs/2412.19406) | 2024-12 | arXiv | [GitHub](https://github.com/fjq-tongji/MLLM-SUL) | Scenario Analysis |
+| [LMM-enhanced Safety-Critical Scenario Generation for Autonomous Driving System Testing From Non-Accident Traffic Videos](https://arxiv.org/pdf/2406.10857) | 2025-01 | arXiv | [GitHub](https://anonymous.4open.science/r/CRISER/README.md) | Scenario Generation |
+| [TUMTraffic-VideoQA: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes](https://arxiv.org/abs/2502.02449) | 2025-02 | ICML 2025 | [GitHub](https://arxiv.org/abs/2502.02449) | Scenario Analysis |
+| [ScVLM: Enhancing Vision-Language Model for Safety-Critical Event Understanding](https://openaccess.thecvf.com/content/WACV2025W/LLVMAD/html/Shi_ScVLM_Enhancing_Vision-Language_Model_for_Safety-Critical_Event_Understanding_WACVW_2025_paper.html) | 2025-02 | WACV Workshop 2025 | [GitHub](https://github.com/datadrivenwheels/ScVLM) | Scenario Analysis |
+| [HiLM-D: Enhancing MLLMs with Multi-Scale High-Resolution Details for Autonomous Driving](https://arxiv.org/abs/2309.05186) | 2025-03 | International Journal of Computer Vision | - | Scenario Analysis |
+| [NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models](https://arxiv.org/abs/2503.12772) | 2025-03 | arXiv | - | Scenario Analysis |
+| [Tracking Meets Large Multimodal Models for Driving Scenario Understanding](https://arxiv.org/abs/2503.14498) | 2025-03 | arXiv | [GitHub](https://github.com/mbzuai-oryx/TrackingMeetsLMM) | Scenario Analysis |
+| [V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving](https://arxiv.org/abs/2505.00156) | 2025-04 | arXiv | - | Scenario Analysis |
+| [Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding](https://arxiv.org/abs/2504.14526) | 2025-04 | arXiv | [GitHub](https://github.com/tong-zeng/DVBench) | Scenario Analysis |
 
 ## 🌟 Vision-Language Models for Autonomous Driving
 
@@ -193,70 +166,81 @@ The following figure shows the evolution of foundation model research in autonom
 
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
-| [FuseDream: Training-Free Text-to-Image Generation with Improved CLIP+GAN Space Optimization](https://arxiv.org/abs/2112.01573) | 2021-12 | ICLR 2022 | [GitHub](https://github.com/gnobitab/FuseDream) |
-| [Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model](https://arxiv.org/abs/2203.14940) | 2022-06 | CVPR 2022 | [GitHub](https://github.com/dyabel/detpro) |
-| [Masked Autoencoders for Self-Supervised Learning on Automotive Point Clouds](https://arxiv.org/abs/2207.00531) | 2022-07 | arXiv | [GitHub](https://github.com/GeoX-Lab/G-MAE) |
-| [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) | 2022-10 | NeurIPS 2022 | - |
-| [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 2023-04 | NeurIPS 2023 | [GitHub](https://github.com/haotian-liu/LLaVA) |
-| [Vision Foundation Model Embedding-Based Semantic Anomaly Detection](https://arxiv.org/abs/2505.05431) | 2025-05 | ICRA 2025 Workshop | [GitHub](https://github.com/rasmuszero/vfm-anomaly) |
-| [Self-Evaluation Guided Beam Search for Reasoning](https://arxiv.org/abs/2305.00633) | 2023-05 | NeurIPS 2023 | [GitHub](https://github.com/YuxiXie/SelfEval-Guided-Decoding) |
-| [NuInstruct: A Multi-Modal Dataset for Teaching Object Localization in Autonomous Driving](https://arxiv.org/abs/2401.17564) | 2024-01 | CVPR 2024 | [GitHub](https://github.com/CarVision/nu-instruct) |
-| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150) | 2024-03 | ECCV 2024 | [GitHub](https://github.com/OpenDriveLab/DriveLM) |
-| [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) | 2024-04 | arXiv | - |
-| [DrivingCoT: Chain-of-Thought Reasoning for Autonomous Driving with Large Language Models](https://arxiv.org/abs/2403.16996) | 2024-04 | arXiv | - |
+| [WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models](https://arxiv.org/pdf/2305.07528) | 2023-05 | CVPR workshop 2023 | - |
+| [DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024-08 | IAVVC 2024 | - |
+| [Multimodal Large Language Model Driven Scenario Testing for Autonomous Vehicles](https://arxiv.org/abs/2409.06450) | 2024-09 | arXiv | - |
+| [From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events](https://arxiv.org/abs/2411.16027) | 2024-11 | arXiv | - |
+| [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/abs/2411.16554) | 2024-11 | arXiv | - |
+| [From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing](https://arxiv.org/abs/2502.02025) | 2025-02 | arXiv | - |
+| [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
 
 ### Scenario Analysis (VLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|
-| [CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection](https://arxiv.org/abs/2311.00626) | 2023-11 | arXiv | - |
-| [TransDETR: Temporally Correlated Transformers for Multi-frame Detection in Videos](https://arxiv.org/abs/2401.02921) | 2024-01 | arXiv | - |
-| [Vision Language Models Can Parse Floor Plan Maps](https://arxiv.org/abs/2407.12482) | 2024-07 | IROS 2024 | - |
-| [Multi-modal Large Language Model Driven Scenario Testing for Autonomous Vehicles](https://arxiv.org/abs/2408.01699) | 2024-08 | arXiv | - |
-| [VisionZip: Longer is Better But Not Necessary in Vision Language Models](https://arxiv.org/abs/2404.06865) | 2024-09 | EMNLP 2024 | [GitHub](https://github.com/dvlab-research/VisionZip) |
-| [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/abs/2411.17635) | 2024-11 | NeurIPS 2024 | [GitHub](https://github.com/LangSurf/LangSurf) |
+| [Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving](https://arxiv.org/abs/2309.14491) | 2023-09 | ICCV 2023 | - |
+| [OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data](https://arxiv.org/abs/2310.13398) | 2023-10 | ICRA 2024 | - |
+| [On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/abs/2311.05332) | 2023-11 | ICIL 2024 Workshop on Large Language Models for Agents | [GitHub](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) |
+| [Talk2BEV: Language-enhanced Bird's-eye View Maps for Autonomous Driving](https://arxiv.org/abs/2310.02251) | 2023-11 | ICRA 2024 | [GitHub](https://github.com/llmbev/talk2bev) |
+| [LLM Multimodal Traffic Accident Forecasting](https://www.mdpi.com/1424-8220/23/22/9225) | 2023-11 | Sensors 2023 MDPI | - |
+| [NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://ieeexplore.ieee.org/abstract/document/10495633) | 2024-01 | WACVW LLVM-AD 2024 | [GitHub](https://github.com/turingmotors/NuScenes-MQA) |
+| [Is it safe to cross? Interpretable Risk Assessment with GPT-4V for Safety-Aware Street Crossing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10597464) | 2024-02 | UR 2024 | - |
+| [Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving](https://arxiv.org/abs/2403.19838) | 2024-03 | VLADR 2024 | [GitHub](https://github.com/akshaygopalkr/EM-VLM4AD) |
+| [LATTE: A Real-time Lightweight Attention-based Traffic Accident Anticipation Engine](https://arxiv.org/abs/2504.04103) | 2024-04 | arXiv | - |
+| [OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning](https://arxiv.org/abs/2405.01533) | 2024-05 | CVPR 2025 | [GitHub](https://github.com/NVlabs/OmniDrive) |
+| [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/abs/2312.03661) | 2024-06 | ECCV 2024 | [GitHub](https://github.com/fudan-zvg/reason2drive) |
+| [Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving](https://arxiv.org/abs/2403.11057) | 2024-07 | IROS 2024 | [GitHub](https://github.com/AIR-DISCOVER/LLM-Augmented-MTR) |
+| [DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024-08 | IAVVC 2024 | - |
+| [Think-Driver: From Driving-Scene Understanding to Decision-Making with Vision Language Models](https://mllmav.github.io/papers/Think-Driver:%20From%20Driving-Scene%20Understanding%20to%20Decision-Making%20with%20Vision%20Language%20Models.pdf) | 2024-09 | ECCV 2024 Workshop | - |
+| [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/abs/2411.16554) | 2024-11 | arXiv | - |
+| [Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases](https://arxiv.org/abs/2404.10595) | 2024-12 | WACV 2025 | [GitHub](https://coda-dataset.github.io/coda-lm/) |
+| [SFF Rendering-Based Uncertainty Prediction using VisionLLM](https://openreview.net/forum?id=q8ptjh1pDl) | 2024-12 | AAAI 2025 Workshop LM4Plan | - |
+| [Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives](https://arxiv.org/abs/2501.04003) | 2025-01 | arXiv | [GitHub](https://drive-bench.github.io/) |
+| [Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory](https://arxiv.org/abs/2501.01710) | 2025-01 | arXiv | - |
+| [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150) | 2025-01 | ECCV 2024 | [GitHub](https://github.com/OpenDriveLab/DriveLM) |
+| [Scenario Understanding of Traffic Scenes Through Large Visual Language Models](https://arxiv.org/pdf/2501.17131) | 2025-01 | WACV 2025 | - |
+| [INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation](https://www.arxiv.org/abs/2502.00262) | 2025-02 | arXiv | - |
+| [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
+| [Evaluating Multimodal Vision-Language Model Prompting Strategies for Visual Question Answering in Road Scene Understanding](https://openaccess.thecvf.com/content/WACV2025W/LLVMAD/html/Keskar_Evaluating_Multimodal_Vision-Language_Model_Prompting_Strategies_for_Visual_Question_Answering_WACVW_2025_paper.html) | 2025-02 | WACV workshop 2025 | - |
+| [NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving](https://arxiv.org/abs/2503.22436) | 2025-03 | arXiv | - |
+| [AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models](https://arxiv.org/abs/2503.15778) | 2025-03 | arXiv | [GitHub](https://github.com/Boshrakh/AutoDrive-QA) |
+| [DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding](https://arxiv.org/abs/2503.10621) | 2025-03 | arXiv | [GitHub](https://github.com/ayesha-ishaq/DriveLMM-o1) |
+| [Vision Foundation Model Embedding-Based Semantic Anomaly Detection](https://arxiv.org/abs/2505.07998) | 2025-05 | ICRA 2025 Workshop | - |
+| [OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions](https://arxiv.org/abs/2505.09092) | 2025-05 | arXiv | [GitHub](https://github.com/OpenLKA/OpenLKA) |
+| [Bridging Human Oversight and Black-box Driver Assistance: Vision-Language Models for Predictive Alerting in Lane Keeping Assist systems](https://arxiv.org/abs/2505.11535) | 2025-05 | arXiv | - |
 
 ## 🌟 World Models for Autonomous Driving
 
-### Scenario Generation (WM)
-
-| Paper | Date | Venue | Code |
-|:------|:-----|:------|:-----|
-| [Learning Interactive Driving Policies via Data-driven Simulation](https://arxiv.org/abs/2204.10755) | 2022-04 | ICRA 2022 | [GitHub](https://github.com/autonomousvision/tuplan_garage) |
-| [Learning from All Vehicles](https://arxiv.org/abs/2203.11934) | 2022-06 | CVPR 2022 | [GitHub](https://github.com/dotchen/LAV) |
-| [ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/abs/2207.07601) | 2022-07 | ECCV 2022 | [GitHub](https://github.com/OpenPerceptionX/ST-P3) |
-| [MUVO: A Multimodal World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) | 2023-11 | ICRA 2024 | [GitHub](https://github.com/robot-learning-freiburg/MUVO) |
-| [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) | 2023-11 | arXiv | - |
-| [GenAD: Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630) | 2024-03 | CVPR 2024 | [GitHub](https://github.com/OpenDriveLab/GenAD) |
-| [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) | 2024-05 | ECCV 2024 | [GitHub](https://github.com/JeffWang987/DriveDreamer) |
-| [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) | 2024-05 | ECCV 2024 | [GitHub](https://github.com/wzzheng/OccWorld) |
-| [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) | 2024-07 | ECCV 2024 | [GitHub](https://github.com/fudan-zvg/WoVoGen) |
-| [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2024-05 | arXiv | [GitHub](https://github.com/wzzheng/OccSora) |
-| [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197) | 2024-08 | AAAI2025 | [GitHub](https://github.com/wzzheng/OccWorld) |
-| [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) | 2024-09 | arXiv | [GitHub](https://github.com/f-gloria/DriveDreamer2) |
-| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-10 | NeurIPS 2024 | [GitHub](https://github.com/OpenDriveLab/Vista) |
-| [DrivingWorld: 4D World Model for Autonomous Driving](https://arxiv.org/abs/2410.07681) | 2024-10 | arXiv | - |
-| [Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391) | 2024-10 | ICML 2024 | - |
-| [MILE: A Multi-Level Framework for Scalable Graph Representation Learning](https://arxiv.org/abs/2404.18908) | 2024-10 | arXiv | [GitHub](https://github.com/Graph-COM/MILE) |
-| [DRIVEGPT: Scaling Autoregressive Multi-Modal Foundation Models for Autonomous Driving](https://arxiv.org/abs/2411.17327) | 2024-11 | arXiv | [GitHub](https://github.com/OpenGVLab/DRIVEGPT) |
-| [Gensim: A General Social Simulation Platform with Large Language Model based Agents](https://arxiv.org/abs/2410.04360) | 2024-11 | arXiv | [GitHub](https://github.com/TsinghuaC3I/Gensim) |
-| [DriveDreamer4D: World Models with Efficient 4D Scene Representation for Autonomous Driving](https://arxiv.org/abs/2409.17156) | 2024-12 | arXiv | [GitHub](https://github.com/GigaAI-research/DriveDreamer4D) |
-
-### Scenario Analysis (WM)
-
-| Paper | Date | Venue | Code |
-|:------|:-----|:------|:-----|
-| [Learning Interactive Driving Policies via Data-driven Simulation](https://arxiv.org/abs/2204.10755) | 2022-04 | ICRA 2022 | [GitHub](https://github.com/autonomousvision/tuplan_garage) |
-| [Learning from All Vehicles](https://arxiv.org/abs/2203.11934) | 2022-06 | CVPR 2022 | [GitHub](https://github.com/dotchen/LAV) |
-| [ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/abs/2207.07601) | 2022-07 | ECCV 2022 | [GitHub](https://github.com/OpenPerceptionX/ST-P3) |
-| [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228) | 2023-09 | WACV 2024 | - |
-| [Generative Modeling of Autonomous Driving Trajectories](https://arxiv.org/abs/2309.09866) | 2023-09 | ICLR 2024 | [GitHub](https://github.com/autonomousvision/carla_garage) |
-| [CoWorld: Decoupled Generation for Autonomous Driving using Pre-trained Foundation Models](https://arxiv.org/abs/2309.17080) | 2023-09 | arXiv | - |
-| [DrivingDojo: Synthesizing Realistic and Diverse Driving Scenarios for Safety-Critical Learning](https://arxiv.org/abs/2402.16329) | 2024-02 | ICRA 2024 | [GitHub](https://github.com/autonomousvision/driving_dojo) |
-| [DIVA: A Disentangled World Model for Autonomous Driving](https://arxiv.org/abs/2302.12635) | 2024-05 | ICCV 2023 | - |
-| [CAT: Closed-loop Adversarial Training for Safe End-to-End Driving](https://arxiv.org/abs/2310.12432) | 2024-05 | RSS 2024 | [GitHub](https://github.com/georgeliu233/CAT) |
-| [WorldModel: A Foundation Model for Autonomous Driving](https://arxiv.org/abs/2403.04878) | 2024-08 | arXiv | - |
-| [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2024-09 | arXiv | [GitHub](https://github.com/wzzheng/OccSora) |
+| Paper | Date | Venue | Code | Application |
+|:------|:-----|:------|:-----|:------------|
+| [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) | 2023-09 | ECCV 2024 | [GitHub](https://github.com/JeffWang987/DriveDreamer) | Scenario Generation |
+| [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) | 2023-09 | arXiv Wayve | - | Scenario Generation |
+| [Copilot4D: Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017) | 2023-11 | ICLR 2024 | - | Scenario Generation |
+| [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/abs/2311.11762) | 2023-11 | IV 2025 | - | Scenario Generation |
+| [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) | 2023-11 | CVPR 2024 | [GitHub](https://github.com/BraveGroup/Drive-WM) | Scenario Generation |
+| [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) | 2024-03 | NeurIPS 2024 | - | Scenario Generation |
+| [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) | 2024-05 | arXiv | - | Scenario Generation |
+| [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) | 2024-05 | AAAI 2025 | [GitHub](https://github.com/f1yfisher/DriveDreamer2) | Scenario Generation |
+| [UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829) | 2024-08 | RAL 2024 | - | Scenario Generation |
+| [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) | 2024-08 | ECCV 2024 | - | Scenario Generation |
+| [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2408.07605) | 2024-08 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | Scenario Generation |
+| [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/abs/2408.00415) | 2024-08 | arXiv | [GitHub](https://github.com/PJLab-ADG/DriveArena) | Scenario Generation |
+| [DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment](https://arxiv.org/abs/2504.18576) | 2024-08 | arXiv | - | Scenario Generation |
+| [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/abs/2410.13571) | 2024-11 | CVPR 2025 | [GitHub](https://github.com/GigaAI-research/DriveDreamer4D) | Scenario Generation |
+| [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://arxiv.org/abs/2411.19548) | 2024-11 | arXiv | - | Scenario Generation |
+| [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive3d/) | Scenario Generation |
+| [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807) | 2024-11 | arXiv | [GitHub](https://gaoruiyuan.com/magicdrive-v2/) | Scenario Generation |
+| [ACT-Bench: Towards Action Controllable World Models for Autonomous Driving](https://arxiv.org/abs/2412.05337) | 2024-12 | arXiv | - | Scenario Generation |
+| [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) | 2024-12 | CVPR 2025 | [GitHub](https://github.com/vita-epfl/GEM) | Scenario Generation |
+| [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2412.12129) | 2024-12 | CVPR 2025 | - | Scenario Generation |
+| [DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT](https://arxiv.org/abs/2412.19505) | 2024-12 | arXiv | [GitHub](https://github.com/YvanYin/DrivingWorld) | Scenario Generation |
+| [Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving](https://arxiv.org/abs/2408.14197) | 2025-01 | AAAI 2025 | [GitHub](https://github.com/yuyang-cloud/Drive-OccWorld) | Scenario Generation |
+| [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/yangzhaojason/DualDiff) | Scenario Generation |
+| [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-03 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-reason1) | Scenario Generation |
+| [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | arXiv | - | Scenario Generation |
+| [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) | 2025-04 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1) | Scenario Generation |
+| [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | - | Scenario Generation |
+| [PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth](https://arxiv.org/abs/2505.00000) | 2025-05 | arXiv | - | Scenario Generation |
 
 ## 🌟 Datasets Comparison
 

@@ -46,6 +46,7 @@ The following figure shows the evolution of foundation model research in autonom
 </p>
 
 **Keywords:**
+The following list of keywords was used to search this survey's papers in the Google Scholar database. The keywords were entered either individually or in combination with other keywords in the list. The search was conducted until May 2025.
 - **Foundation Model Types:** Foundation Models, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Large Language Models (MLLMs), Diffusion Models (DMs), World Models (WMs), Generative Models (GMs)
 - **Scenario Generation & Analysis:** Scenario Generation, Scenario Simulation, Traffic Simulation, Scenario Testing, Scenario Understanding, Driving Scene Generation, Scene Reasoning, Risk Assessment, Safety-Critical Scenarios, Accident Prediction
 - **Application Context:** Autonomous Driving, Self-Driving Vehicles, AV Simulation, Driving Video Generation, Traffic Datasets, Closed-Loop Simulation, Safety Assurance

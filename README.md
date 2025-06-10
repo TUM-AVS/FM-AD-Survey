@@ -298,7 +298,7 @@ The following list of keywords was used to search this survey's papers in the Go
 <summary><strong>Datasets Comparison</strong></summary>
 
 <p align="center">
-<img src="Assets/dataset_usage_combined_plot.png" width="80%" height="auto"/>
+<img src="Assets/dataset_usage_combined_plot.png" width="100%" height="auto"/>
 </p>
 
 *Figure: Usage distribution of different foundation model types across autonomous driving datasets*
@@ -361,7 +361,7 @@ The following list of keywords was used to search this survey's papers in the Go
 <summary><strong>Simulators</strong></summary>
 
 <p align="center">
-<img src="Assets/simulator_usage_plot.png" width="80%" height="auto"/>
+<img src="Assets/simulator_usage_plot.png" width="100%" height="auto"/>
 </p>
 
 *Figure: Usage distribution of different foundation model types across autonomous driving simulators*

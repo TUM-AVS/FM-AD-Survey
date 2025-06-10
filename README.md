@@ -57,8 +57,6 @@ The following list of keywords was used to search this survey's papers in the Go
 <details>
 <summary><strong>Scenario Generation (LLM)</strong></summary>
 
-### Scenario Generation (LLM)
-
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
 | [TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles](https://arxiv.org/abs/2305.06018) | 2023-05 | arXiv | - |
@@ -91,8 +89,6 @@ The following list of keywords was used to search this survey's papers in the Go
 <details>
 <summary><strong>Scenario Analysis (LLM)</strong></summary>
 
-### Scenario Analysis (LLM)
-
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
 | [Semantic Anomaly Detection with Large Language Models](https://arxiv.org/abs/2305.11307) | 2023-09 | Autonomous Robots | - |
@@ -112,8 +108,6 @@ The following list of keywords was used to search this survey's papers in the Go
 <details>
 <summary><strong>Scenario Generation (VLM)</strong></summary>
 
-### Scenario Generation (VLM)
-
 | Paper | Date | Venue | Code | 
 |:------|:-----|:------|:-----|
 | [WEDGE: A multi-weather autonomous driving dataset built from generative vision-language models](https://arxiv.org/pdf/2305.07528) | 2023-05 | CVPR workshop 2023 | - |
@@ -128,8 +122,6 @@ The following list of keywords was used to search this survey's papers in the Go
 
 <details>
 <summary><strong>Scenario Analysis (VLM)</strong></summary>
-
-### Scenario Analysis (VLM)
 
 | Paper | Date | Venue | Code |
 |:------|:-----|:------|:-----|

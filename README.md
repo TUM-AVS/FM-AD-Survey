@@ -299,51 +299,51 @@ The following list of keywords was used to search this survey's papers in the Go
 
 | Dataset | Year | Img | View | Real | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
 |:--------|:-----|:----|:-----|:-----|:------|:------|:-----|:---|:---|:-----|:--------|:-----|:-------|:--------|
-| CamVid | 2009 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D | U | - |
-| KITTI | 2013 | RGB/S | FPV | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | D | U/R/H | - |
-| Cyclists | 2016 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | U | - |
-| Cityscapes | 2016 | RGB/S | FPV | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | D | U | - |
-| SYNTHIA | 2016 | RGB | FPV | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| Campus | 2016 | RGB | BEV | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | C | - |
-| RobotCar | 2016 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D/N | U | - |
-| Mapillary | 2017 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
-| P.F.B. | 2017 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
-| BDD100K | 2018 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D | U/H | - |
-| HighD | 2018 | RGB | BEV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | D | H | - |
-| Udacity | 2018 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | U | - |
-| KAIST | 2018 | RGB/S | FPV | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
-| Argoverse | 2019 | RGB/S | FPV | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D/N | U | - |
-| TRAF | 2019 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D | U | - |
-| ApolloScape | 2019 | RGB/S | FPV | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D | U | - |
-| ACFR | 2019 | RGB | BEV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | RA | - |
-| H3D | 2019 | RGB | FPV | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | D | U | - |
-| INTERACTION | 2019 | RGB | BEV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | I/RA | - |
-| Comma2k19 | 2019 | RGB | FPV | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | D/N | U/S/R/H | - |
-| InD | 2020 | RGB | BEV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | I | - |
-| RounD | 2020 | RGB | BEV | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | D | RA | - |
-| nuScenes | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| Lyft Level 5 | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U/S | - |
-| Waymo Open | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| A*3D | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| RobotCar Radar | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| Toronto3D | 2020 | RGB | BEV | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | D/N | U | University of Waterloo |
-| A2D2 | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | D | U/H/S/R | Audi |
-| WADS | 2020 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | D/N | U/S/R | Michigan Technological University |
-| Argoverse 2 | 2021 | RGB/S | FPV | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| PandaSet | 2021 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| ONCE | 2021 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U | - |
-| Leddar PixSet | 2021 | RGB | FPV | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | D/N | U/S/R | Leddar |
-| ZOD | 2022 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/R/S/H | Zenseact |
-| IDD-3D | 2022 | RGB | FPV | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | - | R | INAI |
-| CODA | 2022 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/R | Huawei |
-| SHIFT | 2022 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/R/H | ETH Zürich |
-| DeepAccident | 2023 | RGB/S | FPV/BEV | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/R/H | HKU, Huawei, CARLA |
-| Dual_Radar | 2023 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | D/N | U | Tsinghua University |
-| V2V4Real | 2023 | RGB | FPV | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | - | U/H/S | UCLA Mobility Lab |
-| SCaRL | 2024 | RGB/S | FPV/BEV | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/R/H | Fraunhofer CARLA |
-| MARS | 2024 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | D/N | U/S/H | NYU, MAY Mobility |
-| Scenes101 | 2024 | RGB | FPV | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ✅ | D/N | U/S/R/H | Wayve |
-| TruckScenes | 2025 | RGB | FPV | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | D/N | H/U | MAN |
+| CamVid | 2009 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D | U | - |
+| KITTI | 2013 | RGB/S | FPV | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✔ | ✔ | D | U/R/H | - |
+| Cyclists | 2016 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | U | - |
+| Cityscapes | 2016 | RGB/S | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✖️ | D | U | - |
+| SYNTHIA | 2016 | RGB | FPV | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| Campus | 2016 | RGB | BEV | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | C | - |
+| RobotCar | 2016 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D/N | U | - |
+| Mapillary | 2017 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D/N | U | - |
+| P.F.B. | 2017 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D/N | U | - |
+| BDD100K | 2018 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✔ | D | U/H | - |
+| HighD | 2018 | RGB | BEV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✖️ | D | H | - |
+| Udacity | 2018 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | U | - |
+| KAIST | 2018 | RGB/S | FPV | ✔ | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D/N | U | - |
+| Argoverse | 2019 | RGB/S | FPV | ✔ | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D/N | U | - |
+| TRAF | 2019 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D | U | - |
+| ApolloScape | 2019 | RGB/S | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✔ | D | U | - |
+| ACFR | 2019 | RGB | BEV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | RA | - |
+| H3D | 2019 | RGB | FPV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✔ | D | U | - |
+| INTERACTION | 2019 | RGB | BEV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | I/RA | - |
+| Comma2k19 | 2019 | RGB | FPV | ✔ | ✖️ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | ✖️ | D/N | U/S/R/H | - |
+| InD | 2020 | RGB | BEV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | I | - |
+| RounD | 2020 | RGB | BEV | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | D | RA | - |
+| nuScenes | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| Lyft Level 5 | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✔ | D/N | U/S | - |
+| Waymo Open | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| A*3D | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| RobotCar Radar | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| Toronto3D | 2020 | RGB | BEV | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✔ | ✖️ | D/N | U | University of Waterloo |
+| A2D2 | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | D | U/H/S/R | Audi |
+| WADS | 2020 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | ✔ | D/N | U/S/R | Michigan Technological University |
+| Argoverse 2 | 2021 | RGB/S | FPV | ✔ | ✔ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| PandaSet | 2021 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| ONCE | 2021 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U | - |
+| Leddar PixSet | 2021 | RGB | FPV | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✖️ | ✔ | D/N | U/S/R | Leddar |
+| ZOD | 2022 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U/R/S/H | Zenseact |
+| IDD-3D | 2022 | RGB | FPV | ✔ | ✔ | ✖️ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | - | R | INAI |
+| CODA | 2022 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U/S/R | Huawei |
+| SHIFT | 2022 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U/S/R/H | ETH Zürich |
+| DeepAccident | 2023 | RGB/S | FPV/BEV | ✖️ | ✔ | ✖️ | ✖️ | ✔ | ✔ | ✔ | ✔ | D/N | U/S/R/H | HKU, Huawei, CARLA |
+| Dual_Radar | 2023 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | D/N | U | Tsinghua University |
+| V2V4Real | 2023 | RGB | FPV | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✔ | ✖️ | - | U/H/S | UCLA Mobility Lab |
+| SCaRL | 2024 | RGB/S | FPV/BEV | ✖️ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U/S/R/H | Fraunhofer CARLA |
+| MARS | 2024 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | D/N | U/S/H | NYU, MAY Mobility |
+| Scenes101 | 2024 | RGB | FPV | ✔ | ✖️ | ✖️ | ✔ | ✖️ | ✖️ | ✔ | ✔ | D/N | U/S/R/H | Wayve |
+| TruckScenes | 2025 | RGB | FPV | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | D/N | H/U | MAN |
 
 *Notes: View: FPV=First-Person, BEV=Bird's-Eye; Time: D=Day, N=Night; Region: U=Urban, R=Rural, H=Highway, S=Suburban, C=Campus, I=Intersection, RA=Road Area; Img: RGB/S=RGB+Stereo*
 
@@ -356,40 +356,40 @@ The following list of keywords was used to search this survey's papers in the Go
 
 | Simulator | Year | Back-end | Open Source | Realistic Perception | Custom Scenario | Real World Map | Human Design Map | Python API | C++ API | ROS API | Company |
 |:----------|:-----|:---------|:------------|:---------------------|:----------------|:---------------|:-----------------|:-----------|:--------|:--------|:--------|
-| TORCS | 2000 | None | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
-| Webots | 2004 | ODE | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | - |
-| CarRacing | 2017 | None | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | - |
-| CARLA | 2017 | UE4 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | - |
-| SimMobilityST | 2017 | None | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
-| GTA-V | 2017 | RAGE | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | - |
-| highway-env | 2018 | None | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | - |
-| Deepdrive | 2018 | UE4 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | - |
-| esmini | 2018 | Unity | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | - |
-| AutonoViSim | 2018 | PhysX | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | - |
-| AirSim | 2018 | UE4 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | - |
-| SUMO | 2018 | None | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | - |
-| Apollo | 2018 | Unity | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | - |
-| Sim4CV | 2018 | UE4 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | - |
-| MATLAB | 2018 | MATLAB | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | Mathworks |
-| Scenic | 2019 | None | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | Toyota Research Institute, UC Berkeley |
-| SUMMIT | 2020 | UE4 | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | - |
-| MultiCarRacing | 2020 | None | ✅ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | - |
-| SMARTS | 2020 | None | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | - |
-| LGSVL | 2020 | Unity | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - |
-| CausalCity | 2020 | UE4 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | - |
-| Vista | 2020 | None | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | MIT |
-| MetaDrive | 2021 | Panda3D | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | - |
-| L2R | 2021 | UE4 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | - |
-| AutoDRIVE | 2021 | Unity | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - |
-| Nuplan | 2021 | None | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | Motional |
-| AWSIM | 2021 | Unity | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | Autoware |
-| InterSim | 2022 | None | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | Tsinghua |
-| Nocturne | 2022 | None | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Facebook |
-| BeamNG.tech | 2022 | Soft-body physics | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | BeamNG GmbH |
-| Waymax | 2023 | JAX | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | Waymo |
-| UNISim | 2023 | None | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | Waabi |
-| TBSim | 2023 | None | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | NVIDIA |
-| Nvidia DriveWorks | 2024 | Nvidia GPU | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | NVIDIA |
+| TORCS | 2000 | None | ✔ | ✔ | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | - |
+| Webots | 2004 | ODE | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | - |
+| CarRacing | 2017 | None | ✔ | ✖️ | ✖️ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | - |
+| CARLA | 2017 | UE4 | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✔ | - |
+| SimMobilityST | 2017 | None | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | - |
+| GTA-V | 2017 | RAGE | ✖️ | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | ✖️ | - |
+| highway-env | 2018 | None | ✔ | ✖️ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | - |
+| Deepdrive | 2018 | UE4 | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✖️ | - |
+| esmini | 2018 | Unity | ✔ | ✖️ | ✖️ | ✖️ | ✖️ | ✔ | ✖️ | ✖️ | - |
+| AutonoViSim | 2018 | PhysX | ✖️ | ✔ | ✔ | ✖️ | ✖️ | ✔ | ✖️ | ✖️ | - |
+| AirSim | 2018 | UE4 | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✖️ | - |
+| SUMO | 2018 | None | ✔ | ✖️ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✖️ | - |
+| Apollo | 2018 | Unity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | - |
+| Sim4CV | 2018 | UE4 | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | - |
+| MATLAB | 2018 | MATLAB | ✖️ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | Mathworks |
+| Scenic | 2019 | None | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | Toyota Research Institute, UC Berkeley |
+| SUMMIT | 2020 | UE4 | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✔ | ✖️ | - |
+| MultiCarRacing | 2020 | None | ✔ | ✖️ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | - |
+| SMARTS | 2020 | None | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | - |
+| LGSVL | 2020 | Unity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| CausalCity | 2020 | UE4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | - |
+| Vista | 2020 | None | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✖️ | ✖️ | MIT |
+| MetaDrive | 2021 | Panda3D | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | - |
+| L2R | 2021 | UE4 | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | - |
+| AutoDRIVE | 2021 | Unity | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | - |
+| Nuplan | 2021 | None | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | Motional |
+| AWSIM | 2021 | Unity | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | ✔ | Autoware |
+| InterSim | 2022 | None | ✔ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✖️ | ✖️ | Tsinghua |
+| Nocturne | 2022 | None | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | Facebook |
+| BeamNG.tech | 2022 | Soft-body physics | ✖️ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✔ | BeamNG GmbH |
+| Waymax | 2023 | JAX | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | ✖️ | Waymo |
+| UNISim | 2023 | None | ✖️ | ✔ | ✔ | ✔ | ✖️ | ✖️ | ✔ | ✖️ | Waabi |
+| TBSim | 2023 | None | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✖️ | ✖️ | NVIDIA |
+| Nvidia DriveWorks | 2024 | Nvidia GPU | ✖️ | ✔ | ✔ | ✔ | ✖️ | ✔ | ✔ | ✖️ | NVIDIA |
 
 </details>
 

@@ -52,6 +52,9 @@ The following figure shows the evolution of foundation model research in autonom
 
 ## 🌟 Diffusion Models for Autonomous Driving
 
+<details>
+<summary><strong>Click to expand Diffusion Models table (32 papers)</strong></summary>
+
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
 | [Guided Conditional Diffusion for Controllable Traffic Simulation](https://aiasd.github.io/ctg.github.io/) | 2022-10 | ICRA 2023 | [GitHub](https://github.com/NVlabs/CTG) | Scenario Generation |
@@ -87,7 +90,12 @@ The following figure shows the evolution of foundation model research in autonom
 | [LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios](https://arxiv.org/abs/2505.00000) | 2025-05 | arXiv | - | Scenario Generation |
 | [Dual-Conditioned Temporal Diffusion Modeling for Driving Scene Generation](https://zzzura-secure.duckdns.org/dctdm) | 2025-05 | ICAR 2025 | [GitHub](https://github.com/PeteBai/DcTDM) | Scenario Generation |
 
+</details>
+
 ## 🌟 Large Language Models for Autonomous Driving
+
+<details>
+<summary><strong>Click to expand LLM Scenario Generation table (24 papers)</strong></summary>
 
 ### Scenario Generation (LLM)
 
@@ -118,6 +126,11 @@ The following figure shows the evolution of foundation model research in autonom
 | [Text2Scenario: Text-Driven Scenario Generation for Autonomous Driving Test](https://arxiv.org/abs/2503.02911) | 2025-03 | arXiv | [GitHub](https://caixxuan.github.io/Text2Scenario.GitHub.io/) |
 | [Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models](https://arxiv.org/abs/2505.00972) | 2025-05 | arXiv | - |
 
+</details>
+
+<details>
+<summary><strong>Click to expand LLM Scenario Analysis table (9 papers)</strong></summary>
+
 ### Scenario Analysis (LLM)
 
 | Paper | Date | Venue | Code | 
@@ -132,7 +145,12 @@ The following figure shows the evolution of foundation model research in autonom
 | [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
 | [A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation](https://arxiv.org/abs/2503.05164) | 2025-03 | arXiv | - |
 
+</details>
+
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
+
+<details>
+<summary><strong>Click to expand Multimodal Large Language Models table (22 papers)</strong></summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -160,7 +178,12 @@ The following figure shows the evolution of foundation model research in autonom
 | [V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving](https://arxiv.org/abs/2505.00156) | 2025-04 | arXiv | - | Scenario Analysis |
 | [Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding](https://arxiv.org/abs/2504.14526) | 2025-04 | arXiv | [GitHub](https://github.com/tong-zeng/DVBench) | Scenario Analysis |
 
+</details>
+
 ## 🌟 Vision-Language Models for Autonomous Driving
+
+<details>
+<summary><strong>Click to expand VLM Scenario Generation table (7 papers)</strong></summary>
 
 ### Scenario Generation (VLM)
 
@@ -173,6 +196,11 @@ The following figure shows the evolution of foundation model research in autonom
 | [Generating Out-Of-Distribution Scenarios Using Language Models](https://arxiv.org/abs/2411.16554) | 2024-11 | arXiv | - |
 | [From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing](https://arxiv.org/abs/2502.02025) | 2025-02 | arXiv | - |
 | [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) |
+
+</details>
+
+<details>
+<summary><strong>Click to expand VLM Scenario Analysis table (30 papers)</strong></summary>
 
 ### Scenario Analysis (VLM)
 
@@ -209,7 +237,12 @@ The following figure shows the evolution of foundation model research in autonom
 | [OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions](https://arxiv.org/abs/2505.09092) | 2025-05 | arXiv | [GitHub](https://github.com/OpenLKA/OpenLKA) |
 | [Bridging Human Oversight and Black-box Driver Assistance: Vision-Language Models for Predictive Alerting in Lane Keeping Assist systems](https://arxiv.org/abs/2505.11535) | 2025-05 | arXiv | - |
 
+</details>
+
 ## 🌟 World Models for Autonomous Driving
+
+<details>
+<summary><strong>Click to expand World Models table (28 papers)</strong></summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -241,6 +274,8 @@ The following figure shows the evolution of foundation model research in autonom
 | [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) | 2025-04 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1) | Scenario Generation |
 | [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | - | Scenario Generation |
 | [PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth](https://arxiv.org/abs/2505.00000) | 2025-05 | arXiv | - | Scenario Generation |
+
+</details>
 
 ## 🌟 Datasets Comparison
 

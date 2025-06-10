@@ -297,11 +297,11 @@ The following list of keywords was used to search this survey's papers in the Go
 <details>
 <summary><strong>Datasets Comparison</strong></summary>
 
+The following figure shows the usage distribution of different foundation model types across autonomous driving datasets:
+
 <p align="center">
 <img src="Assets/dataset_usage_combined_plot.png" width="100%" height="auto"/>
 </p>
-
-*Figure: Usage distribution of different foundation model types across autonomous driving datasets*
 
 | Dataset | Year | Img | View | Real | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
 |:--------|:-----|:----|:-----|:-----|:------|:------|:-----|:---|:---|:-----|:--------|:-----|:-------|:--------|
@@ -360,11 +360,11 @@ The following list of keywords was used to search this survey's papers in the Go
 <details>
 <summary><strong>Simulators</strong></summary>
 
+The following figure shows the usage distribution of different foundation model types across autonomous driving simulators:
+
 <p align="center">
 <img src="Assets/simulator_usage_plot.png" width="100%" height="auto"/>
 </p>
-
-*Figure: Usage distribution of different foundation model types across autonomous driving simulators*
 
 | Simulator | Year | Back-end | Open Source | Realistic Perception | Custom Scenario | Real World Map | Human Design Map | Python API | C++ API | ROS API | Company |
 |:----------|:-----|:---------|:------------|:---------------------|:----------------|:---------------|:-----------------|:-----------|:--------|:--------|:--------|

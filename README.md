@@ -55,7 +55,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Large Language Models for Autonomous Driving
 
 <details>
-<summary><strong>Click to expand LLM Scenario Generation table (24 papers)</strong></summary>
+<summary><strong>Scenario Generation (LLM)</strong></summary>
 
 ### Scenario Generation (LLM)
 
@@ -89,7 +89,7 @@ The following list of keywords was used to search this survey's papers in the Go
 </details>
 
 <details>
-<summary><strong>Click to expand LLM Scenario Analysis table (9 papers)</strong></summary>
+<summary><strong>Scenario Analysis (LLM)</strong></summary>
 
 ### Scenario Analysis (LLM)
 
@@ -110,7 +110,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Vision-Language Models for Autonomous Driving
 
 <details>
-<summary><strong>Click to expand VLM Scenario Generation table (7 papers)</strong></summary>
+<summary><strong>Scenario Generation (VLM)</strong></summary>
 
 ### Scenario Generation (VLM)
 
@@ -127,7 +127,7 @@ The following list of keywords was used to search this survey's papers in the Go
 </details>
 
 <details>
-<summary><strong>Click to expand VLM Scenario Analysis table (30 papers)</strong></summary>
+<summary><strong>Scenario Analysis (VLM)</strong></summary>
 
 ### Scenario Analysis (VLM)
 
@@ -169,7 +169,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
 
 <details>
-<summary><strong>Click to expand Multimodal Large Language Models table (22 papers)</strong></summary>
+<summary><strong>Multimodal Large Language Models for Autonomous Driving</strong></summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -202,7 +202,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Diffusion Models for Autonomous Driving
 
 <details>
-<summary><strong>Click to expand Diffusion Models table (32 papers)</strong></summary>
+<summary><strong>Diffusion Models for Autonomous Driving</strong></summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -244,7 +244,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 World Models for Autonomous Driving
 
 <details>
-<summary><strong>Click to expand World Models table (28 papers)</strong></summary>
+<summary><strong>World Models for Autonomous Driving</strong></summary>
 
 | Paper | Date | Venue | Code | Application |
 |:------|:-----|:------|:-----|:------------|
@@ -282,7 +282,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Datasets Comparison
 
 <details>
-<summary><strong>Click to expand Datasets Comparison table (44 datasets)</strong></summary>
+<summary><strong>Datasets Comparison</strong></summary>
 
 | Dataset | Year | Img | View | Real | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
 |:--------|:-----|:----|:-----|:-----|:------|:------|:-----|:---|:---|:-----|:--------|:-----|:-------|:--------|
@@ -339,7 +339,7 @@ The following list of keywords was used to search this survey's papers in the Go
 ## 🌟 Simulators
 
 <details>
-<summary><strong>Click to expand Simulators table (34 simulators)</strong></summary>
+<summary><strong>Simulators</strong></summary>
 
 | Simulator | Year | Back-end | Open Source | Realistic Perception | Custom Scenario | Real World Map | Human Design Map | Python API | C++ API | ROS API | Company |
 |:----------|:-----|:---------|:------------|:---------------------|:----------------|:---------------|:-----------------|:-----------|:--------|:--------|:--------|

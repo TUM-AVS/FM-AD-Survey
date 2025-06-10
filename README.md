@@ -25,7 +25,7 @@ Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Robert
 -->
 
 ```BibTeX
-@article{Foundation-Models-AV-Dual-Survey,
+@article{Foundation-Models-AD-Dual-Survey,
   author={TBD},
   title={Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis},
   journal={TBD},
@@ -397,6 +397,6 @@ The following list of keywords was used to search this survey's papers in the Go
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.
 
 ## License
-This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-AV-Survey-Scenario-Generation-Analysis/blob/main/LICENSE). 
+This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-AD-Survey/blob/main/LICENSE). 
 
 ``` 

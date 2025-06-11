@@ -405,6 +405,42 @@ The following figure shows the usage distribution of different foundation model 
 
 </details>
 
+## 🏆 Foundation Model Benchmark Challenges (2022–2025)
+
+### Autonomous Driving
+
+| Name                              | Host                    |
+|-----------------------------------|-------------------------|
+| [CARLA AD Challenge](https://leaderboard.carla.org/)                | CARLA                   |
+| [DRL4Real](https://drl4real-workshop.github.io/)                          | ICCV                    |
+| [Waymo Open Dataset Challenge](https://waymo.com/open/challenges/)      | Waymo / CVPR WAD       |
+| [Argoverse 2: Scenario Mining](https://eval.ai/web/challenges/challenge-page/1857/overview)      | ArgoAI                  |
+| [Roboflow-20VL](https://eval.ai/web/challenges/challenge-page/2459/overview)                     | Roboflow-VL / CVPR     |
+| [AVA Challenge](https://research.google.com/ava/challenge.html)                     | AVA Challenge Team      |
+
+### Other Fields Related to Generation and Analysis
+
+| Name                              | Host                               |
+|-----------------------------------|------------------------------------|
+| [IGLU Challenge](https://iglu-challenge.net/)                    | NeurIPS / IGLU Team                |
+| [LLM Efficiency Challenge](https://mlcommons.org/en/news/mlc-announces-neurips-2022-llm-efficiency-challenge-winners/)          | NeurIPS                            |
+| [Trojan Detection](https://trojandetection.ai/)                  | NeurIPS / CAIS                     |
+| [SMART-101](https://eval.ai/web/challenges/challenge-page/1681/overview)                         | CVPR                               |
+| [NICE Challenge](https://nice.lgresearch.ai/)                    | CVPR / LG Research                 |
+| [SyntaGen](https://syntagen-challenge.github.io/)                          | CVPR                               |
+| [Habitat Challenge](https://aihabitat.org/challenge/)                 | CVPR / FAIR                        |
+| [BIG-bench](https://github.com/google/BIG-bench)                         | Google Research                    |
+| [BIG-bench Hard (BBH)](https://github.com/suzgunmirac/BIG-Bench-Hard)              | Google Research                    |
+| [HELM](https://crfm.stanford.edu/helm/latest/)                              | Stanford CRFM                      |
+| [MMBench](https://github.com/open-compass/MMBench)                           | OpenCompass                        |
+| [MMMU](https://mmmu-benchmark.github.io/)                              | CVPR / U-Waterloo / OSU           |
+| [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)              | VILA-Lab                           |
+| [Text-to-Image Leaderboard](https://www.artificialanalysis.ai/leaderboards/text-to-image)         | Artificial Analysis                |
+| [Ego4D](https://ego4d-data.org/)                             | FAIR                               |
+| [VizWiz Grand Challenge](https://vizwiz.org/)            | CVPR VizWiz Workshop               |
+| [MedFM](https://medfm.github.io/)                             | NeurIPS / Shanghai AI Laboratory   |
+| [3D Scene Understanding](http://www.scan-net.org/)            | CVPR                               |
+
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.
 

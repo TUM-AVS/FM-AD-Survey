@@ -292,16 +292,16 @@ The following list of keywords was used to search this survey's papers in the Go
 
 </details>
 
-## 🌟 Datasets Comparison
-
-<details>
-<summary><strong>Datasets Comparison</strong></summary>
+## 📊 Datasets Comparison
 
 The following figure shows the usage distribution of different foundation model types across autonomous driving datasets:
 
 <p align="center">
 <img src="Assets/dataset_usage_combined_plot.png" width="100%" height="auto"/>
 </p>
+
+<details>
+<summary><strong>Datasets Comparison</strong></summary>
 
 | Dataset | Year | Img | View | Real | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
 |:--------|:-----|:----|:-----|:-----|:------|:------|:-----|:---|:---|:-----|:--------|:-----|:-------|:--------|
@@ -355,16 +355,16 @@ The following figure shows the usage distribution of different foundation model 
 
 </details>
 
-## 🌟 Simulators
-
-<details>
-<summary><strong>Simulators</strong></summary>
+## 🎮 Simulators
 
 The following figure shows the usage distribution of different foundation model types across autonomous driving simulators:
 
 <p align="center">
 <img src="Assets/simulator_usage_plot.png" width="100%" height="auto"/>
 </p>
+
+<details>
+<summary><strong>Simulators</strong></summary>
 
 | Simulator | Year | Back-end | Open Source | Realistic Perception | Custom Scenario | Real World Map | Human Design Map | Python API | C++ API | ROS API | Company |
 |:----------|:-----|:---------|:------------|:---------------------|:----------------|:---------------|:-----------------|:-----------|:--------|:--------|:--------|
@@ -452,4 +452,3 @@ We welcome contributions from the community! If you have research papers, tools,
 ## License
 This repository is released under the [Apache 2.0 license](https://github.com/TUM-AVS/FM-AD-Survey/blob/main/LICENSE). 
 
-``` 

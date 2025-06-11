@@ -407,6 +407,9 @@ The following figure shows the usage distribution of different foundation model 
 
 ## 🏆 Foundation Model Benchmark Challenges (2022–2025)
 
+<details>
+<summary><strong>Benchmark Challenges</strong></summary>
+
 ### Autonomous Driving
 
 | Name                              | Host                    |
@@ -440,6 +443,8 @@ The following figure shows the usage distribution of different foundation model 
 | [VizWiz Grand Challenge](https://vizwiz.org/)            | CVPR VizWiz Workshop               |
 | [MedFM](https://medfm.github.io/)                             | NeurIPS / Shanghai AI Laboratory   |
 | [3D Scene Understanding](http://www.scan-net.org/)            | CVPR                               |
+
+</details>
 
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.

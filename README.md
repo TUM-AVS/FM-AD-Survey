@@ -1,6 +1,6 @@
 # Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis :car:
 <div align="center">
-<a href="https://example.com/paper-to-be-published"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper Badge"/></a>
+<a href="https://example.com/paper-to-be-published"><img src="https://arxiv.org/pdf/2506.11526" alt="Paper Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-AD-Survey/stargazers"><img src="https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey" alt="Stars Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-AD-Survey/network/members"><img src="https://img.shields.io/github/forks/TUM-AVS/FM-AD-Survey" alt="Forks Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-AD-Survey/pulls"><img src="https://img.shields.io/github/issues-pr/TUM-AVS/FM-AD-Survey" alt="Pull Requests Badge"/></a>

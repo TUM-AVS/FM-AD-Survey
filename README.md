@@ -1,4 +1,4 @@
-# Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis :car:
+# Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis :car:
 <div align="center">
 <a href="https://example.com/paper-to-be-published"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper Badge"/></a>
 <a href="https://github.com/TUM-AVS/FM-AD-Survey/stargazers"><img src="https://img.shields.io/github/stars/TUM-AVS/FM-AD-Survey" alt="Stars Badge"/></a>
@@ -18,7 +18,7 @@ This repository will collect research, implementations, and resources related to
 - [May.2024] Repository initialized
 
 ## 🤝 &nbsp; Citation
-Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis](https://example.com/paper-to-be-published) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
 
 <!-- Complete author list for when ready to publish:
 Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz
@@ -26,10 +26,10 @@ Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Robert
 
 ```BibTeX
 @article{Foundation-Models-AD-Dual-Survey,
-  author={TBD},
-  title={Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis},
+  author={Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz,
+  title={Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis},
   journal={TBD},
-  year={2024},
+  year={2025},
   pages={TBD},
   doi={TBD}
 }

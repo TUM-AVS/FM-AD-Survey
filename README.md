@@ -15,23 +15,26 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
-- [May.2024] Repository initialized
+- [Jun.2025] Paper uploaded to arXiv
+- [May.2025] Repository initialized
 
 ## 🤝 &nbsp; Citation
-Please visit [Foundation Models in Autonomous Driving: A Dual Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
 
 <!-- Complete author list for when ready to publish:
 Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz
 -->
 
 ```BibTeX
-@article{Foundation-Models-AD-Dual-Survey,
-  author={Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz,
+@misc{gao2025foundationmodelsautonomousdriving,
   title={Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis},
+  author={Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz,
   journal={TBD},
   year={2025},
-  pages={TBD},
-  doi={TBD}
+  eprint={2506.11526},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2506.11526}, 
 }
 ```
 

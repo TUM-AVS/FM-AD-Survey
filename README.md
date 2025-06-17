@@ -19,7 +19,7 @@ This repository will collect research, implementations, and resources related to
 - [May.2025] Repository initialized
 
 ## 🤝 &nbsp; Citation
-Please visit [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information (coming soon). If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 <!-- Complete author list for when ready to publish:
 Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz

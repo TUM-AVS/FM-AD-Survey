@@ -15,8 +15,16 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
-- [Jun.2025] Paper uploaded to arXiv
-- [May.2025] Repository initialized
+- **Aug 2025** – Added *4 new papers on scenario generation* and *4 on scenario analysis*.  
+- **Jul 2025** – Added *9 new papers on scenario generation* and *8 on scenario analysis*.  
+- **Jun 2025** – Released our paper on arXiv. Repository now categorizes **342 papers**:  
+  - 93 on scenario generation  
+  - 54 on scenario analysis  
+  - 55 on datasets  
+  - 21 on simulators  
+  - 25 on benchmark challenges  
+  - 94 on other related topics  
+- **May 2025** – Repository initialized.  
 
 ## 🤝 &nbsp; Citation
 Please visit [Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis](https://arxiv.org/abs/2506.11526) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:

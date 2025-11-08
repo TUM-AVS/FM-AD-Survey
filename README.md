@@ -15,7 +15,7 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
-- **Oct 2025** – Added *20 new papers on scenario generation* and *2 on scenario analysis*. 
+- **Oct 2025** – Added *17 new papers on scenario generation* and *2 on scenario analysis*. 
 - **Sep 2025** – Added *3 new papers on scenario generation* and *14 on scenario analysis*. 
 - **Aug 2025** – Added *4 new papers on scenario generation* and *4 on scenario analysis*.  
 - **Jul 2025** – Added *9 new papers on scenario generation* and *8 on scenario analysis*.  
@@ -196,12 +196,12 @@ The following list of keywords was used to search this survey's papers in the Go
 | [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://arxiv.org/abs/2506.20531) | 2025-06 | arXiv | - |
 | [Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2506.05442) | 2025-06 | arXiv | - |
 | [DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction](https://www.arxiv.org/abs/2507.02948) | 2025-07 | arXiv | [GitHub](https://github.com/hzy138/DriveMRP) |
-| [SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2507.21585) | 2025-07 | MM 2025 | [GitHub](https://github.com/Lumos0507/SafeDriveRAG) |
+| [SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2507.21585) | 2025-07 | ACMMM 2025 | [GitHub](https://github.com/Lumos0507/SafeDriveRAG) |
 | [DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving](https://www.arxiv.org/abs/2506.17590) | 2025-08 | arXiv | [GitHub](https://github.com/taco-group/DRAMA-X) |
 | [NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving](https://www.arxiv.org/abs/2509.25944) | 2025-09 | arXiv | - |
 | [DriveAgent-R1: Advancing VLM-based Autonomous Driving with Active Perception and Hybrid Thinking](https://arxiv.org/abs/2507.20879) | 2025-09 | arXiv | - |
-| [More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](https://arxiv.org/html/2510.04532v1?utm_source=chatgpt.com) | 2025-10 | arXiv |-|
 | [Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning](https://arxiv.org/abs/2510.24152) | 2025-09 | IROS 2025 | [GitHub](https://github.com/wuaodi/UCAS-CSU-phase2) |
+| [More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](https://arxiv.org/html/2510.04532v1?utm_source=chatgpt.com) | 2025-10 | arXiv |-|
 </details>
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
@@ -301,7 +301,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [Dual-Conditioned Temporal Diffusion Modeling for Driving Scene Generation](https://zzzura-secure.duckdns.org/dctdm) | 2025-05 | ICAR 2025 | [GitHub](https://github.com/PeteBai/DcTDM) |
 | [Diffusion Models for Safety Validation of Autonomous Driving Systems](https://www.arxiv.org/abs/2506.08459) | 2025-06 | arXiv |-|
 | [Diffusion-Based Generation and Imputation of Driving Scenarios from Limited Vehicle CAN Data](https://arxiv.org/abs/2509.12375) | 2025-09 | arXiv |-|
-| [DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion](https://arxiv.org/abs/2510.15264) | 2025-19 | NeurIPS 2025 Workshop |-|
+| [DriveGen3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion](https://arxiv.org/abs/2510.15264) | 2025-10 | NeurIPS 2025 Workshop |-|
 
 </details>
 
@@ -347,11 +347,19 @@ The following list of keywords was used to search this survey's papers in the Go
 | [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/yangzhaojason/DualDiff) | Scenario Generation |
 | [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558) | 2025-03 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-reason1) | Scenario Generation |
 | [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) | 2025-03 | arXiv | - | Scenario Generation |
+| [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) | 2025-03 | arXiv | - | Scenario Generation |
+| [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) | 2025-03 | arXiv | [GitHub](https://github.com/dk-liang/UniFuture) | Scenario Generation |
 | [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) | 2025-04 | arXiv | [GitHub](https://github.com/nvidia-cosmos/cosmos-transfer1) | Scenario Generation |
+| [DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment](https://arxiv.org/abs/2504.18576) | 2025-04 | ACMMM 2025 | [GitHub](https://github.com/shalfun/DriVerse) | Scenario Generation |
 | [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | - | Scenario Generation |
 | [PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth](https://arxiv.org/abs/2505.00000) | 2025-05 | arXiv | - | Scenario Generation |
+| [ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos](https://arxiv.org/abs/2505.18650) | 2025-05 | arXiv | - | Scenario Generation |
 | [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) | 2025-06 | ICCV 2025 | [GitHub](https://kevin-thu.github.io/Epona/) | Scenario Generation |
-
+| [STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation](https://www.arxiv.org/abs/2506.13138) | 2025-06 | IROS 2025 | - | Scenario Generation |
+| [MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction](https://arxiv.org/abs/2502.11663) | 2025-06 |CVPR 2025 | [GitHub](https://github.com/SenseTime-FVG/OpenDWM) | Scenario Generation |
+| [DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103) | 2025-06 |arXiv | [GitHub](https://github.com/SOTAMak1r/DeepVerse) | Scenario Generation |
+| [World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving](https://arxiv.org/abs/2507.12762) | 2025-07 |Commun Eng 4 | [GitHub](https://github.com/humanlabmembers/Anticipation-of-Traffic-Accident) | Scenario Generation |
+| [HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](https://arxiv.org/abs/2501.14729) | 2025-08 |ICCV 2025 | [GitHub](https://github.com/LMD0311/HERMES) | Scenario Generation |
 </details>
 
 ## 📊 Datasets Comparison

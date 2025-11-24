@@ -516,6 +516,33 @@ The following figure shows the usage distribution of different foundation model 
 
 </details>
 
+## 🔗 Useful Resources and Links
+
+This section provides links to commonly used tools, frameworks, and resources for working with foundation models in autonomous driving.
+
+### Model Repositories and Leaderboards
+
+- [Hugging Face Models](https://huggingface.co/models) - Large collection of pre-trained foundation models
+- [Hugging Face Vision-Language Models Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) - Benchmark and leaderboard for VLMs
+- [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - Comprehensive LLM benchmarking
+- [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) - Curated list of Large Language Models resources
+
+### Model Inference Frameworks
+
+- [vLLM](https://github.com/vllm-project/vllm) - High-throughput and memory-efficient inference engine for LLMs
+- [LMDeploy](https://github.com/InternLM/lmdeploy) - Toolkit for compressing, deploying, and serving LLMs
+- [Ollama](https://ollama.ai/) - Run large language models locally
+- [Text Generation Inference](https://github.com/huggingface/text-generation-inference) - Production-ready inference container by Hugging Face
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - High-performance inference library by NVIDIA
+
+### Training and Fine-tuning
+
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - State-of-the-art ML for PyTorch, TensorFlow, and JAX
+- [LLaMA Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified framework for fine-tuning LLMs
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Tool for fine-tuning large language models
+- [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning methods
+
+
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.
 

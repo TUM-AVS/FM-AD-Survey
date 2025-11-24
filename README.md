@@ -518,6 +518,9 @@ The following figure shows the usage distribution of different foundation model 
 
 ## 🔗 Useful Resources and Links
 
+<details>
+<summary><strong>Common Tools and Frameworks</strong></summary>
+
 This section provides links to commonly used tools, frameworks, and resources for working with foundation models in autonomous driving.
 
 ### Model Repositories and Leaderboards
@@ -542,6 +545,7 @@ This section provides links to commonly used tools, frameworks, and resources fo
 - [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Tool for fine-tuning large language models
 - [PEFT](https://github.com/huggingface/peft) - Parameter-Efficient Fine-Tuning methods
 
+</details>
 
 ## Contributing
 We welcome contributions from the community! If you have research papers, tools, or resources to add, please create a pull request or open an issue.

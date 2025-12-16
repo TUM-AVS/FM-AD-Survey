@@ -79,7 +79,7 @@ The following list of keywords was used to search this survey's papers in the Go
 - **Application Context:** Autonomous Driving, Self-Driving Vehicles, AV Simulation, Driving Video Generation, Traffic Datasets, Closed-Loop Simulation, Safety Assurance
 ## 🌟 Large Language Models for Autonomous Driving
 
-<details>
+<details open>
 <summary><strong>Scenario Generation (LLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -121,7 +121,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models](https://arxiv.org/abs/2510.08046) | 2025-10 | arXiv | - | 0 |
 </details>
 
-<details>
+<details open>
 <summary><strong>Scenario Analysis (LLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -140,7 +140,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 ## 🌟 Vision-Language Models for Autonomous Driving
 
-<details>
+<details open>
 <summary><strong>Scenario Generation (VLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -157,7 +157,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://www.arxiv.org/abs/2508.02338v1) | 2025-08 | arXiv | - | 3 |
 </details>
 
-<details>
+<details open>
 <summary><strong>Scenario Analysis (VLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -215,7 +215,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
 
-<details>
+<details open>
 <summary><strong>Scenario Generation (MLLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -227,7 +227,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Scenario Analysis (MLLM)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -268,7 +268,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 ## 🌟 Diffusion Models for Autonomous Driving
 
-<details>
+<details open>
 <summary><strong>Scenario Generation (Diffusion Models)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -315,7 +315,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Scenario Analysis (Diffusion Models)</strong></summary>
 
 | Paper | Date | Venue | Code | Citation |
@@ -326,7 +326,7 @@ The following list of keywords was used to search this survey's papers in the Go
 
 ## 🌟 World Models for Autonomous Driving
 
-<details>
+<details open>
 <summary><strong>World Models for Autonomous Driving</strong></summary>
 
 | Paper | Date | Venue | Code | Application | Citation |
@@ -380,7 +380,7 @@ The following figure shows the usage distribution of different foundation model 
 <img src="Assets/dataset_usage_combined_plot.png" width="100%" height="auto"/>
 </p>
 
-<details>
+<details open>
 <summary><strong>Datasets Comparison</strong></summary>
 
 | Dataset | Year | Img | View | Real | Lidar | Radar | Traj | 3D | 2D | Lane | Weather | Time | Region | Company |
@@ -433,7 +433,7 @@ The following figure shows the usage distribution of different foundation model 
 
 *Notes: View: FPV=First-Person, BEV=Bird's-Eye; Time: D=Day, N=Night; Region: U=Urban, R=Rural, H=Highway, S=Suburban, C=Campus, I=Intersection, RA=Road Area; Img: RGB/S=RGB+Stereo*
 
-</details>
+</details open>
 
 ## 🎮 Simulators
 
@@ -443,7 +443,7 @@ The following figure shows the usage distribution of different foundation model 
 <img src="Assets/simulator_usage_plot.png" width="100%" height="auto"/>
 </p>
 
-<details>
+<details open>
 <summary><strong>Simulators</strong></summary>
 
 | Simulator | Year | Back-end | Open Source | Realistic Perception | Custom Scenario | Real World Map | Human Design Map | Python API | C++ API | ROS API | Company |
@@ -487,7 +487,7 @@ The following figure shows the usage distribution of different foundation model 
 
 ## 🏆 Foundation Model Benchmark Challenges (2022–2025)
 
-<details>
+<details open>
 <summary><strong>Benchmark Challenges</strong></summary>
 
 ### Autonomous Driving

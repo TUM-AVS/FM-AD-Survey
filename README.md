@@ -15,8 +15,8 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
-- **Dec 2025** – Added new columns: **Hardware and Citation**.
-- **Nov 2025** – Added *2 new papers on scenario analysis*. Added new section: **Useful Resources and Links**.
+- **Dec 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. Added new columns: **Hardware and Citation**.
+- **Nov 2025** – Added **2 new papers** on scenario analysis*. Added new section: **Useful Resources and Links**.
 - Uploaded new version to arXiv. Repository now categorizes **348 papers**:
   - 93 on scenario generation
   - 56 on scenario analysis
@@ -24,10 +24,10 @@ This repository will collect research, implementations, and resources related to
   - 21 on simulators
   - 25 on benchmark challenges
   - 95 on other related topics (e.g., FMs' implementation)
-- **Oct 2025** – Added *17 new papers on scenario generation* and *2 on scenario analysis*. 
-- **Sep 2025** – Added *3 new papers on scenario generation* and *14 on scenario analysis*. 
-- **Aug 2025** – Added *4 new papers on scenario generation* and *4 on scenario analysis*.  
-- **Jul 2025** – Added *9 new papers on scenario generation* and *8 on scenario analysis*.  
+- **Oct 2025** – Added **17 new papers** on scenario generation* and **2 new papers** on scenario analysis*. 
+- **Sep 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. 
+- **Aug 2025** – Added **4 new papers** on scenario generation* and **4 new papers** on scenario analysis*.  
+- **Jul 2025** – Added **9 new papers** on scenario generation* and **8 new papers** on scenario analysis*.  
 - **Jun 2025** – Released our paper on arXiv. Repository now categorizes **342 papers**:  
   - 93 on scenario generation  
   - 54 on scenario analysis  
@@ -133,6 +133,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving](https://arxiv.org/abs/2501.03535) | 2025-01 | 2025 WACVW | - | API |  9 |
 | [From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios](https://arxiv.org/abs/2502.02145) | 2025-02 | ITSC 2025 | [GitHub](https://github.com/TUM-AVS/From-Words-to-Collisions) | API | 3 |
 | [A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation](https://arxiv.org/abs/2503.05164) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/AIR-DISCOVER/Driving-Intellenge-Evaluation-Framework) | API |  7 |
+| [Understanding Driving Risks using Large Language Models: Toward Elderly Driver Assessment](https://arxiv.org/abs/2507.08367) | 2025-07 | arXiv| - | - |  0 |
 | [Collision risk prediction and takeover requirements assessment based on radar-video integrated sensors data: A system framework based on LLM](https://www.sciencedirect.com/science/article/pii/S0001457525001277) | 2025-08 | Accident Analysis & Prevention | - |  API&RTX4090 | 7 |
 </details>
 
@@ -169,6 +170,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [LATTE: A Real-time Lightweight Attention-based Traffic Accident Anticipation Engine](https://arxiv.org/abs/2504.04103) | 2024-04 | Information Fusion (Elsevier) | - | RTX4080  | 3 |
 | [OmniDrive: A Holistic Vision-Language Dataset for Autonomous Driving with Counterfactual Reasoning](https://arxiv.org/abs/2405.01533) | 2024-05 | CVPR 2025 | [GitHub](https://github.com/NVlabs/OmniDrive) | - |47 |
 | [Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving](https://arxiv.org/abs/2312.03661) | 2024-06 | ECCV 2024 | [GitHub](https://github.com/fudan-zvg/reason2drive) | 8xV100 |118 |
+| [ConnectGPT: Connect Large Language Models with Connected and Automated Vehicles](https://ieeexplore.ieee.org/document/10588835) | 2024-06 | IV 2024 | - | - |21 |
 | [SimpleLLM4AD: An End-to-End Vision-Language Model with Graph Visual Question Answering for Autonomous Driving](https://arxiv.org/abs/2407.21293) | 2024-07 | arXiv | - |  - |14 |
 | [Large Language Models Powered Context-aware Motion Prediction in Autonomous Driving](https://arxiv.org/abs/2403.11057) | 2024-07 | IROS 2024 | [GitHub](https://github.com/AIR-DISCOVER/LLM-Augmented-MTR) | API | 13 |
 | [DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10786438) | 2024-08 | IAVVC 2024 | - |  L4  |13 |
@@ -186,18 +188,22 @@ The following list of keywords was used to search this survey's papers in the Go
 | [INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation](https://www.arxiv.org/abs/2502.00262) | 2025-02 | arXiv | - | A6000 |8 |
 | [Evaluating Multimodal Vision-Language Model Prompting Strategies for Visual Question Answering in Road Scene Understanding](https://openaccess.thecvf.com/content/WACV2025W/LLVMAD/html/Keskar_Evaluating_Multimodal_Vision-Language_Model_Prompting_Strategies_for_Visual_Question_Answering_WACVW_2025_paper.html) | 2025-02 | WACV workshop 2025 | - | RTX4090 | 14 |
 | [NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving](https://arxiv.org/abs/2503.22436) | 2025-03 | arXiv | - | - | 4 |
+| [Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving](https://arxiv.org/abs/2503.21505) | 2025-03 | ICCV 2025  | [GitHub](https://github.com/Depth2World/VLADBench) | 8xV100 | 10 |
 | [AutoDrive-QA- Automated Generation of Multiple-Choice Questions for Autonomous Driving Datasets Using Large Vision-Language Models](https://arxiv.org/abs/2503.15778) | 2025-03 | arXiv | [GitHub](https://github.com/Boshrakh/AutoDrive-QA) |  3xA6000 |4 |
 | [DriveLMM-o1: A Step-by-Step Reasoning Dataset and Large Multimodal Model for Driving Scenario Understanding](https://arxiv.org/abs/2503.10621) | 2025-03 | arXiv | [GitHub](https://github.com/ayesha-ishaq/DriveLMM-o1) |  4xA6000 |20 |
 | [ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation](https://www.arxiv.org/abs/2503.19755) | 2025-03 | arXiv | [GitHub](https://xiaomi-mlab.github.io/Orion/) | 32xA800 | 50 |
 | [ChatBEV: A Visual Language Model that Understands BEV Maps](https://www.arxiv.org/abs/2503.13938) | 2025-03 | arXiv | - | - | 2 |
-| [Retrieval-Based Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios](https://www.arxiv.org/abs/2501.04671) | 2025-04 | arXiv | [GitHub](https://github.com/vita-epfl/RIV-CoT) | 2xA100 | 6 |
+| [Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru](https://www.arxiv.org/abs/2503.07587) | 2025-03 | arXiv | [GitHub](https://huggingface.co/datasets/Artificio/robusto-1/tree/main) | A100&API | 2 |
+| [Retrieval-Based Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios](https://www.arxiv.org/abs/2501.04671) | 2025-04 | arXiv | [GitHub](https://vita-epfl.github.io/DrivingVQA/) | 4xA100 | 6 |
 | [Vision Foundation Model Embedding-Based Semantic Anomaly Detection](https://arxiv.org/abs/2505.07998) | 2025-05 | ICRA 2025 Workshop | - | - | 3 |
 | [OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions](https://arxiv.org/abs/2505.09092) | 2025-05 | arXiv | [GitHub](https://github.com/OpenLKA/OpenLKA) | - | 3 |
 | [SURDS: Benchmarking Spatial Understanding and Reasoning in Driving Scenarios with Vision Language Models](https://arxiv.org/abs/2411.13112) | 2025-05 | NeurIPS 2025 | [GitHub](https://github.com/XiandaGuo/Drive-MLLM) | 8xA800 | 6 |
+| [Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving](https://www.arxiv.org/abs/2505.08725) | 2025-05 | arXiv | [GitHub](https://github.com/zc-zhao/DriveMonkey) | 8xA800 | 5 |
 | [Bridging Human Oversight and Black-box Driver Assistance: Vision-Language Models for Predictive Alerting in Lane Keeping Assist systems](https://arxiv.org/abs/2505.11535) | 2025-05 | arXiv | - |  - | 3 |
 | [FutureSightDrive: Thinking Visually with Spatio-Temporal CoT for Autonomous Driving](https://arxiv.org/abs/2505.17685) | 2025-06 | NeurIPS 2025 | - | 8xA6000 | 65 |
 | [Case-based Reasoning Augmented Large Language Model Framework for Decision Making in Realistic Safety-Critical Driving Scenarios](https://arxiv.org/abs/2506.20531) | 2025-06 | arXiv | - | API | 1 |
 | [Structured Labeling Enables Faster Vision-Language Models for End-to-End Autonomous Driving](https://arxiv.org/abs/2506.05442) | 2025-06 | arXiv | - | 8xRTX4090 | 2 |
+| [Box-QAymo: Box-Referring VQA Dataset for Autonomous Driving](https://www.arxiv.org/abs/2507.00525) | 2025-07 | arXiv | [GitHub](https://djamahl99.github.io/qaymo-pages/) | - | 0 |
 | [DriveMRP: Enhancing Vision-Language Models with Synthetic Motion Data for Motion Risk Prediction](https://www.arxiv.org/abs/2507.02948) | 2025-07 | arXiv | [GitHub](https://github.com/hzy138/DriveMRP) | 8xH100 | 0 |
 | [SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation](https://arxiv.org/abs/2507.21585) | 2025-07 | ACMMM 2025 | [GitHub](https://github.com/Lumos0507/SafeDriveRAG) | - | 3 |
 | [DRAMA-X: A Fine-grained Intent Prediction and Risk Reasoning Benchmark For Driving](https://www.arxiv.org/abs/2506.17590) | 2025-08 | arXiv | [GitHub](https://github.com/taco-group/DRAMA-X) | - | 2 |
@@ -205,6 +211,12 @@ The following list of keywords was used to search this survey's papers in the Go
 | [DriveAgent-R1: Advancing VLM-based Autonomous Driving with Active Perception and Hybrid Thinking](https://arxiv.org/abs/2507.20879) | 2025-09 | arXiv | - |  API&8xH20 |1 |
 | [Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning](https://arxiv.org/abs/2510.24152) | 2025-09 | IROS 2025 RoboSense| [GitHub](https://github.com/wuaodi/UCAS-CSU-phase2) |  API |0 |
 | [More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models](https://arxiv.org/html/2510.04532v1?utm_source=chatgpt.com) | 2025-10 | arXiv | - |  - |0 |
+| [STRIDE-QA: Visual Question Answering Dataset for Spatiotemporal Reasoning in Urban Driving Scenes](https://www.arxiv.org/abs/2508.10427) | 2025-10 | AAAI 2026  | [GitHub](https://turingmotors.github.io/stride-qa/) | 16xH100 | 3 |
+| [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](https://www.arxiv.org/abs/2511.20022v1) | 2025-11 | arXiv | - | 8xA6000 | 0 |
+| [A TOOL FOR BENCHMARKING LARGE LANGUAGE MODELS’ ROBUSTNESS IN ASSESSING THE REALISM OF DRIVING SCENARIOS](https://www.arxiv.org/abs/2511.04267v1) | 2025-11 | arXiv  | - | API | 0 |
+| [V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models](https://arxiv.org/abs/2408.09251) | 2025-11 | arXiv  | - | RTX 4090 | 49 |
+| [RoadSceneVQA: Benchmarking Visual Question Answering in Roadside Perception Systems for Intelligent Transportation System](https://www.arxiv.org/abs/2511.18286v2) | 2025-12 | arXiv | [GitHub](https://github.com/GuanRunwei/RS-VQA) | 4xA100 | 0 |
+
 </details>
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
@@ -250,12 +262,16 @@ The following list of keywords was used to search this survey's papers in the Go
 | [SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment](https://arxiv.org/abs/2503.09594) | 2025-03 | CVPR 2025 | [GitHub](https://github.com/RenzKa/simlingo) | 8xA100 |34 |
 | [V3LMA: Visual 3D-enhanced Language Model for Autonomous Driving](https://arxiv.org/abs/2505.00156) | 2025-04 | CVPR DriveX 2025 | [GitHub](https://github.com/jalu1870/V3LMA-Visual-3D-enhanced-Language-Model-for-Autonomous-Driving) | H100 |3 |
 | [Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding](https://arxiv.org/abs/2504.14526) | 2025-04 | arXiv | [GitHub](https://github.com/tong-zeng/DVBench) | - |7 |
+| [V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models](https://arxiv.org/abs/2502.09980) | 2025-04 | arXiv | [GitHub](https://eddyhkchiu.github.io/v2vllm.github.io/) | 8xA100 |22 |
 | [ALN-P3: Unified Language Alignment for Perception, Prediction, and Planning in Autonomous Driving](https://arxiv.org/abs/2505.15158?utm_source=chatgpt.com) | 2025-05 | arXiv | - | 2xH200 |3 |
 | [X-Driver: Explainable Autonomous Driving with Vision-Language Models](https://arxiv.org/abs/2505.05098?utm_source=chatgpt.com) | 2025-06 | arXiv | - | - |5 |
+| [STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving](https://arxiv.org/abs/2506.06218) | 2025-06 | NeurIPS 2025 | [GitHub](https://lrp-ivc.github.io/STSBench/) | - |2 |
 | [SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](https://arxiv.org/abs/2508.06763) | 2025-08 | arXiv | - | 8xA100 |2 |
 | [RoboTron-Drive: All-in-One Large Multimodal Model for Autonomous Driving](https://arxiv.org/abs/2412.07689v5) | 2025-08 | ICCV2025 | [GitHub](https://github.com/zhijian11/RoboTron-Drive) | 32xA100 |9 |
 | [EMMA: End-to-End Multimodal Model for Autonomous Driving](https://arxiv.org/abs/2410.23262) | 2025-09 | TMLR | - | - |161 |
 | [Investigating Traffic Accident Detection Using Multimodal Large Language Models](https://arxiv.org/abs/2509.19096) | 2025-09 | IAVVC 2025 | - | - |1 |
+| [Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs](https://www.sciencedirect.com/science/article/abs/pii/S0968090X25004607) | 2025-10 | Transportation Research Part C: Emerging Technologies | - | 4090 |0 |
+| [BeLLA: End-to-End Birds Eye View Large Language Assistant for Autonomous Driving](https://www.arxiv.org/abs/2512.06096v1) | 2025-12 | arXiv | - | 4xH100 |0 |
 </details>
 
 ## 🌟 Diffusion Models for Autonomous Driving
@@ -304,7 +320,7 @@ The following list of keywords was used to search this survey's papers in the Go
 | [Diffusion Models for Safety Validation of Autonomous Driving Systems](https://www.arxiv.org/abs/2506.08459) | 2025-06 | arXiv | - | GTX1080Ti |1 |
 | [Diffusion-Based Generation and Imputation of Driving Scenarios from Limited Vehicle CAN Data](https://arxiv.org/abs/2509.12375) | 2025-09 | ITSC 2025 | - | A100 |0 |
 | [3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion](https://arxiv.org/abs/2510.15264) | 2025-10 | NeurIPS 2025 Workshop | - | H20 |3 |
-
+| [VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844) | 2025-12 | arXiv | - | 8x4090 |0 |
 </details>
 
 <details open>
@@ -353,12 +369,14 @@ The following list of keywords was used to search this survey's papers in the Go
 | [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) | 2025-05 | arXiv | [GitHub](https://github.com/wzzheng/OccSora) | 8xA100 |64 |
 | [PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth](https://arxiv.org/abs/2505.01729) | 2025-05 | IROS 2025 | - | 8xA100 |2 |
 | [ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos](https://arxiv.org/abs/2505.18650) | 2025-05 | arXiv | - | 4xA100 |4 |
+| [ReSim: Reliable World Simulation for Autonomous Driving](https://arxiv.org/abs/2506.09981) | 2025-06 | arXiv | [GitHub]([https://opendrivelab.com/ReSim](https://opendrivelab.com/ReSim)) |  40xA100 |10 |
 | [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2412.12129) | 2025-06 | CVPR 2025 | - | - |6 |
 | [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) | 2025-06 | ICCV 2025 | [GitHub](https://kevin-thu.github.io/Epona/) | 48xA100 |22 |
 | [STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation](https://www.arxiv.org/abs/2506.13138) | 2025-06 | IROS 2025 | - | - |3 |
 | [DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103) | 2025-06 | arXiv | [GitHub](https://github.com/SOTAMak1r/DeepVerse) | A100 | 11 |
 | [World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving](https://arxiv.org/abs/2507.12762) | 2025-07 | Commun Eng  | [GitHub](https://github.com/humanlabmembers/Anticipation-of-Traffic-Accident) | RTX4090 |2 |
 | [HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](https://arxiv.org/abs/2501.14729) | 2025-08 | ICCV 2025 | [GitHub](https://github.com/LMD0311/HERMES) | 32xH20 |27 |
+| [Driving scenario generation and evaluation using a structured layer representation and foundational models](https://www.arxiv.org/abs/2511.01541v1) | 2025-11 |arXiv | [GitHub]([https://github.com/Valgiz/5LMSG](https://github.com/Valgiz/5LMSG)) | API |0 |
 </details>
 
 ## 📊 Datasets Comparison

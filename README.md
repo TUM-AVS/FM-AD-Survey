@@ -15,6 +15,7 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
+- **Jan 2026** – 🎉 Our survey paper is accepted by **IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)** and uploaded a new version to arXiv.
 - **Dec 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. Added new columns: **Hardware and Citation**.
 - **Nov 2025** – Added **2 new papers** on scenario analysis*. Added new section: **Useful Resources and Links**.
 - Uploaded new version to arXiv. Repository now categorizes **348 papers**:
@@ -61,7 +62,7 @@ Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Robert
 Foundation models are large-scale, pre-trained models that can be adapted to a wide range of downstream tasks. In the context of autonomous driving, foundation models offer a powerful approach to scenario generation and analysis, enabling more comprehensive and realistic testing, validation, and verification of autonomous driving systems. This repository aims to collect and organize research, tools, and resources in this important field.
 
 <p align="center">
-<img src="Assets/Sec2_FMs_page-0002.png" width="100%" height="auto"/>
+<img src="Assets/Sec2_FMs.png" width="100%" height="auto"/>
 </p>
 
 ## :chart_with_upwards_trend: Publication Timeline
@@ -78,7 +79,15 @@ The following list of keywords was used to search this survey's papers in the Go
 - **Foundation Model Types:** Foundation Models, Large Language Models (LLMs), Vision-Language Models (VLMs), Multimodal Large Language Models (MLLMs), Diffusion Models (DMs), World Models (WMs), Generative Models (GMs)
 - **Scenario Generation & Analysis:** Scenario Generation, Scenario Simulation, Traffic Simulation, Scenario Testing, Scenario Understanding, Driving Scene Generation, Scene Reasoning, Risk Assessment, Safety-Critical Scenarios, Accident Prediction
 - **Application Context:** Autonomous Driving, Self-Driving Vehicles, AV Simulation, Driving Video Generation, Traffic Datasets, Closed-Loop Simulation, Safety Assurance
-## 🌟 Large Language Models for Autonomous Driving
+
+## 🕒 Timeline of the Development of Foundation Models
+
+The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT, GPT) appear at the bottom, followed by **VLMs** built on visual FMs (e.g., ViT, CLIP) and **instruction-tuned VLMs** for interactive vision–language reasoning. **MLLMs** are shown at the top. In parallel, the progression of visual FMs is traced through **Diffusion Models (DMs)** and **World Models (WMs)**. Highlighted entries mark key conceptual milestones.
+
+<p align="center">
+  <img src="Assets/Sec3_Timeline_new.png" width="100%" height="auto"/>
+</p>
+
 
 <details open>
 <summary><strong>Scenario Generation (LLM)</strong></summary>

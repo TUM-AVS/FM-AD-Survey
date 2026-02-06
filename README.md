@@ -46,16 +46,16 @@ Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Robert
 -->
 
 ```BibTeX
-@misc{gao2025foundation,
-  title={Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis},
-  author={Yuan Gao, Mattia Piccinini, Yuchen Zhang, Dingrui Wang, Korbinian Moller, Roberto Brusnicki, Baha Zarrouki, Alessio Gambi, Jan Frederik Totz, Kai Storms, Steven Peters, Andrea Stocco, Bassam Alrifaee, Marco Pavone and Johannes Betz,
-  journal={TBD},
-  year={2025},
-  eprint={2506.11526},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO},
-  url={https://arxiv.org/abs/2506.11526}, 
-}
+@ARTICLE{11370877,
+  author={Gao, Yuan and Piccinini, Mattia and Zhang, Yuchen and Wang, Dingrui and Moller, Korbinian and Brusnicki, Roberto and Zarrouki, Baha and Gambi, Alessio and Totz, Jan Frederik and Storms, Kai and Peters, Steven and Stocco, Andrea and Alrifaee, Bassam and Pavone, Marco and Betz, Johannes},
+  journal={IEEE Open Journal of Intelligent Transportation Systems}, 
+  title={Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Autonomous vehicles;Surveys;Foundation models;Scenario generation;Frequency modulation;Visualization;Reviews;Diffusion models;Adaptation models;Cognition;Autonomous vehicles;foundation model;scenario generation;scenario analysis;scenario based testing},
+  doi={10.1109/OJITS.2026.3660686}}
 ```
 
 ## :page_with_curl: Introduction

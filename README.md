@@ -89,7 +89,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
   <img src="Assets/Sec3_Timeline_new.png" width="100%" height="auto"/>
 </p>
 
-
+## 🌟 Large Language Models for Autonomous Driving
 <details open>
 <summary><strong>Scenario Generation (LLM)</strong></summary>
 

@@ -15,10 +15,11 @@ This repository will collect research, implementations, and resources related to
 </p>
 
 ## :fire: Updates
-- **Feb 2026** – Added **4 new papers** on scenario generation* and **19 new papers** on scenario analysis*.
-- **Jan 2026** – 🎉 Our survey paper is accepted by **IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)** and uploaded a new version to arXiv.
-- **Dec 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. Added new columns: **Hardware and Citation**.
-- **Nov 2025** – Added **2 new papers** on scenario analysis*. Added new section: **Useful Resources and Links**.
+- **Mar. 2026** – Added **10 new papers** on scenario generation* and **11 new papers** on scenario analysis*.
+- **Feb. 2026** – Added **4 new papers** on scenario generation* and **19 new papers** on scenario analysis*.
+- **Jan. 2026** – 🎉 Our survey paper is accepted by **IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)** and uploaded a new version to arXiv.
+- **Dec. 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. Added new columns: **Hardware and Citation**.
+- **Nov. 2025** – Added **2 new papers** on scenario analysis*. Added new section: **Useful Resources and Links**.
 - Uploaded new version to arXiv. Repository now categorizes **348 papers**:
   - 93 on scenario generation
   - 56 on scenario analysis
@@ -26,11 +27,11 @@ This repository will collect research, implementations, and resources related to
   - 21 on simulators
   - 25 on benchmark challenges
   - 95 on other related topics (e.g., FMs' implementation)
-- **Oct 2025** – Added **17 new papers** on scenario generation* and **2 new papers** on scenario analysis*. 
-- **Sep 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. 
-- **Aug 2025** – Added **4 new papers** on scenario generation* and **4 new papers** on scenario analysis*.  
-- **Jul 2025** – Added **9 new papers** on scenario generation* and **8 new papers** on scenario analysis*.  
-- **Jun 2025** – Released our paper on arXiv. Repository now categorizes **342 papers**:  
+- **Oct. 2025** – Added **17 new papers** on scenario generation* and **2 new papers** on scenario analysis*. 
+- **Sep. 2025** – Added **3 new papers** on scenario generation* and **14 new papers** on scenario analysis*. 
+- **Aug. 2025** – Added **4 new papers** on scenario generation* and **4 new papers** on scenario analysis*.  
+- **Jul. 2025** – Added **9 new papers** on scenario generation* and **8 new papers** on scenario analysis*.  
+- **Jun. 2025** – Released our paper on arXiv. Repository now categorizes **342 papers**:  
   - 93 on scenario generation  
   - 54 on scenario analysis  
   - 55 on datasets  
@@ -164,9 +165,11 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing](https://arxiv.org/abs/2502.02025) | 2025-02 | arXiv | - | API |4 |
 | [CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models](https://arxiv.org/abs/2502.15119) | 2025-02 | arXiv | [GitHub](https://zihaosheng.github.io/CurricuVLM/) | - |8 |
 | [CrashAgent: Crash Scenario Generation via Multi-modal Reasoning](https://www.arxiv.org/abs/2505.18341) | 2025-05 | arXiv | - | API |2 |
+| [SEAL: Vision-Language Model-Based Safe End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling](https://arxiv.org/pdf/2506.21041) | 2025-07 | arXiv | - | - |0 |
 | [BENCH2ADVLM: A Closed-Loop Benchmark for Vision-language Models in Autonomous Driving](https://www.arxiv.org/abs/2508.02028v2) | 2025-08 | arXiv | - | 8×A800 |2 |
 | [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://www.arxiv.org/abs/2508.02338v1) | 2025-08 | arXiv | - | - |1 |
 | [VLMasStrategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/pdf/2512.02844) | 2025-12 | arXiv | - | - |0 |
+| [Any2Critical: Safety-Critical Scenario Generation from Arbitrary Real-World Driving Contexts](https://ojs.aaai.org/index.php/AAAI/article/view/40861) | 2026-03 | AAAI 2026 | [GitHub](https://github.com/Steven-iai/Any2Critical) | - |0 |
 </details>
 
 <details open>
@@ -247,6 +250,14 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [More than the Sum: Panorama-Language Models for Adverse Omni-Scenes](https://arxiv.org/html/2603.09573v1) | 2026-03 | CVPR2026  | - | [https://github.com/InSAI-Lab/PanoVQA](https://github.com/InSAI-Lab/PanoVQA) | 0 |
 | [Probing the Reliability of Driving VLMs: From Inconsistent Responses to Grounded Temporal Reasoning](https://arxiv.org/abs/2603.09512) | 2026-03 | arXiv  | - | 4xA100 | 0 |
 | [Are Video Reasoning Models Ready to Go Outside?](https://arxiv.org/abs/2603.10652) | 2026-03 | arXiv  | [GitHub](https://robust-video-reason.github.io/) | 4xA100 | 0 |
+| [WorldVLM: Combining World Model Forecasting and Vision-Language Reasoning](https://arxiv.org/abs/2603.14497) | 2026-03 | arXiv  | - | 4xA40 | 0 |
+| [VLM-AutoDrive: Post-Training Vision-Language Models for Safety-Critical Autonomous Driving Events](https://arxiv.org/abs/2603.18178) | 2026-03 | arXiv  | - | 32xH100 | 0 |
+| [KLDrive: Fine-Grained 3D Scene Reasoning for Autonomous Driving based on Knowledge Graph](https://arxiv.org/abs/2603.21029) | 2026-03 | arXiv  | - | A6000 | 0 |
+| [DRIVINGVQA: A Dataset for Interleaved Visual Chain-of-Thought in Real-World Driving Scenarios](https://aclanthology.org/2026.findings-eacl.173.pdf) | 2026-03 | ECAL 2026  | [GitHub](https://vita-epfl.github.io/DrivingVQA/) | 4xA100 | 0 |
+| [3DCity-LLM: Empowering Multi-modality Large Language Models for 3D City-scale Perception and Understanding](https://arxiv.org/abs/2603.23447) | 2026-03 | arXiv  | [GitHub](https://github.com/SYSU-3DSTAILab/3D-City-LLM) | A100 | 0 |
+| [Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets](https://arxiv.org/abs/2603.25946) | 2026-03 | arXiv  | - | - | 0 |
+| [Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance](https://arxiv.org/abs/2603.27536) | 2026-03 | arXiv  | - | - | 0 |
+| [A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection](https://arxiv.org/abs/2603.28888) | 2026-03 | arXiv  | - | 5090 | 0 |
 </details>
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
@@ -303,6 +314,9 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs](https://www.sciencedirect.com/science/article/abs/pii/S0968090X25004607) | 2025-10 | Transportation Research Part C: Emerging Technologies | - | 4090 |0 |
 | [BeLLA: End-to-End Birds Eye View Large Language Assistant for Autonomous Driving](https://www.arxiv.org/abs/2512.06096v1) | 2025-12 | arXiv | - | 4xH100 |0 |
 | [Wild-Drive: Off-Road Scene Captioning and Path Planning via Robust Multi-modal Routing and Efficient Large Language Model](https://arxiv.org/pdf/2603.00694) | 2026-02 | arXiv | - | 4090 |0 |
+| [DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding](https://arxiv.org/abs/2603.11380) | 2026-03 | arXiv | [GitHub](https://github.com/jtjmd/DRIVEXQA) | 4xA100 |0 |
+| [Interpretable Traffic Responsibility from Dashcam Video via Legal Multi-Agent Reasoning](https://arxiv.org/abs/2603.17930) | 2026-03 | arXiv | - | - |0 |
+| [ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation](https://arxiv.org/abs/2603.16495) | 2026-03 | arXiv | [GitHub](https://wanderhee.github.io/ExpressMind/) | 8xH20 |0 |
 </details>
 
 ## 🌟 Diffusion Models for Autonomous Driving
@@ -341,7 +355,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Rolling Ahead Diffusion for Traffic Scene Simulation](https://www.arxiv.org/abs/2502.09587) | 2025-02 | AAAI 2025 Workshop| - | V100 |2 |
 | [AVD2: Accident Video Diffusion for Accident Video Description](https://arxiv.org/pdf/2502.14801) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/An-Answer-tree/AVD2) | - |16 |
 | [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | arXiv | [GitHub](https://github.com/yangzhaojason/DualDiff) | 8xA800 |4 |
-| [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](https://arxiv.org/abs/2503.22496) | 2025-03 | CVPR 2025 | [GitHub(https://github.com/princeton-computational-imaging/scenario-dreamer)] | 8xA100 |16 |
+| [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](https://arxiv.org/abs/2503.22496) | 2025-03 | CVPR 2025 | [GitHub](https://github.com/princeton-computational-imaging/scenario-dreamer) | 8xA100 |16 |
 | [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2504.19614) | 2025-03 | arXiv | - | - |4 |
 | [DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer](https://arxiv.org/abs/2504.00000) | 2025-04 | arXiv | - | 8xA800 |4 |
 | [Decoupled Diffusion Sparks Adaptive Scene Generation](https://arxiv.org/abs/2504.10485) | 2025-04 | ICCV 2025 | [GitHub](https://github.com/OpenDriveLab/Nexus) | A100 |10 |
@@ -353,6 +367,8 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator](https://arxiv.org/pdf/2509.24995) | 2025-09 | - | [GitHub](https://github.com/CL2-UWaterloo/PathDiffuser/)  | - |0 |
 | [3D: Boosting Feed-Forward Driving Scene Generation with Efficient Video Diffusion](https://arxiv.org/abs/2510.15264) | 2025-10 | NeurIPS 2025 Workshop | - | H20 |3 |
 | [VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844) | 2025-12 | arXiv | - | 8x4090 |0 |
+| [FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving](https://arxiv.org/abs/2603.14938) | 2026-03 | arXiv | - | - |0 |
+| [Controllable Latent Diffusion for Traffic Simulation](https://arxiv.org/abs/2503.11771) | 2026-03 | arXiv | [GitHub](https://github.com/RoboSafe-Lab/BLM) | - |0 |
 </details>
 
 <details open>
@@ -408,7 +424,13 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103) | 2025-06 | arXiv | [GitHub](https://github.com/SOTAMak1r/DeepVerse) | A100 | 11 |
 | [World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving](https://arxiv.org/abs/2507.12762) | 2025-07 | Commun Eng  | [GitHub](https://github.com/humanlabmembers/Anticipation-of-Traffic-Accident) | RTX4090 |2 |
 | [HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation](https://arxiv.org/abs/2501.14729) | 2025-08 | ICCV 2025 | [GitHub](https://github.com/LMD0311/HERMES) | 32xH20 |27 |
-| [Driving scenario generation and evaluation using a structured layer representation and foundational models](https://www.arxiv.org/abs/2511.01541v1) | 2025-11 |arXiv | [GitHub]([https://github.com/Valgiz/5LMSG](https://github.com/Valgiz/5LMSG)) | API |0 |
+| [Driving scenario generation and evaluation using a structured layer representation and foundational models](https://www.arxiv.org/abs/2511.01541v1) | 2025-11 |arXiv | [GitHub](https://github.com/Valgiz/5LMSG) | API |0 |
+| [VistaGEN: Consistent Driving Video Generation with Fine-Grained Control Using Multiview Visual-Language Reasoning](https://arxiv.org/abs/2603.28353) | 2026-03 |arXiv |  |  |0 |
+| [X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving](https://arxiv.org/abs/2603.19979) | 2026-03 |arXiv | [GitHub](https://x-world-1.github.io/)|  |0 |
+| [Toward Physically Consistent Driving Video World Models under Challenging Trajectories](https://arxiv.org/abs/2603.24506) | 2026-03 |arXiv | [GitHub](https://wm-research.github.io/PhyGenesis/) | 48xH20 |0 |
+| [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) | 2026-03 |ICLR2026 | [GitHub](https://drivinggen-bench.github.io/) |  |0 |
+| [Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation](https://arxiv.org/abs/2603.12864) | 2026-03 |arXiv | [GitHub](https://github.com/Yifever20002/CompoSIA) | 16xH100 |0 |
+| [Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation](https://arxiv.org/pdf/2603.14948) | 2026-03 |arXiv | [GitHub](https://github.com/TabGuigui/WorldDrive) | 16xA100 |0 |
 </details>
 
 ## 📊 Datasets Comparison

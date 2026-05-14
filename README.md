@@ -19,6 +19,7 @@ This repository will collect research, implementations, and resources related to
 <img src="Assets/paper_timeline.png" width="100%" height="auto"/>
 </p>
 
+- **May 2026** – Added **5 new papers** on scenario generation* and **13 new papers** on scenario analysis*.
 - **Mar. 2026** – Added **10 new papers** on scenario generation* and **11 new papers** on scenario analysis*.
 - **Feb. 2026** – Added **4 new papers** on scenario generation* and **19 new papers** on scenario analysis*.
 - **Jan. 2026** – 🎉 Our survey paper is accepted by **IEEE Open Journal of Intelligent Transportation Systems (OJ-ITS)** and uploaded a new version to arXiv.
@@ -137,6 +138,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models](https://arxiv.org/abs/2510.08046) | 2025-10 | IEEE ITSC 2025 | - | - | 0 |
 | [Learning from Risk: LLM-Guided Generation of Safety-Critical Scenarios with Prior Knowledge](https://arxiv.org/pdf/2511.20726) | 2025-11 | arXiv |  [GitHub](https://github.com/echoleaeperw/LRF) | - | 0 |
 | [AnchorDrive: LLM Scenario Rollout with Anchor-Guided Diffusion Regeneration for Safety-Critical Scenario Generation](https://arxiv.org/pdf/2603.02542) | 2026-03 | arXiv |  - | - | 0 |
+| [TRACE: Topology-aware Reconstruction of Accidents in CARLA for AV Evaluation](https://arxiv.org/abs/2604.22068) | 2026-04 | FSE 2026 | [GitHub](https://github.com/NahianSalsabil/carla-benchmark) | API | 0 |
 </details>
 
 <details open>
@@ -154,6 +156,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Collision risk prediction and takeover requirements assessment based on radar-video integrated sensors data: A system framework based on LLM](https://www.sciencedirect.com/science/article/pii/S0001457525001277) | 2025-08 | Accident Analysis & Prevention | - |  API&RTX4090 | 7 |
 | [AgentDrive: An open benchmark suite for agentic AI reasoning in autonomous systems](https://arxiv.org/abs/2601.16964) | 2026-01 | arXiv |  [GitHub](https://github.com/maferrag/AgentDrive) | - | 0 |
 | [LLM-MLFFN: Multi-Level Autonomous Driving Behavior Feature Fusion via Large Language Model](https://arxiv.org/abs/2603.02528) | 2025-03 | arXiv | - |  - | 0 |
+| [Towards Lawful Autonomous Driving: Deriving Scenario-Aware Driving Requirements from Traffic Laws and Regulations](https://arxiv.org/abs/2604.24562) | 2026-04 | arXiv | - | - | 0 |
 </details>
 
 ## 🌟 Vision-Language Models for Autonomous Driving
@@ -174,6 +177,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](https://www.arxiv.org/abs/2508.02338v1) | 2025-08 | arXiv | - | - |1 |
 | [VLMasStrategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/pdf/2512.02844) | 2025-12 | arXiv | - | - |0 |
 | [Any2Critical: Safety-Critical Scenario Generation from Arbitrary Real-World Driving Contexts](https://ojs.aaai.org/index.php/AAAI/article/view/40861) | 2026-03 | AAAI 2026 | [GitHub](https://github.com/Steven-iai/Any2Critical) | - |0 |
+| [CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation](https://arxiv.org/abs/2604.09201) | 2026-04 | arXiv | [GitHub](https://github.com/gulucaptain/Camera-Transformer-1) | - | 0 |
 </details>
 
 <details open>
@@ -262,6 +266,16 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets](https://arxiv.org/abs/2603.25946) | 2026-03 | arXiv  | - | - | 0 |
 | [Dual-Stage LLM Framework for Scenario-Centric Semantic Interpretation in Driving Assistance](https://arxiv.org/abs/2603.27536) | 2026-03 | arXiv  | - | - | 0 |
 | [A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection](https://arxiv.org/abs/2603.28888) | 2026-03 | arXiv  | - | 5090 | 0 |
+| [How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study (VENUSS)](https://arxiv.org/abs/2604.06750) | 2026-04 | arXiv | - | API | 0 |
+| [BATON: A Multimodal Benchmark for Bidirectional Automation Transition Observation in Naturalistic Driving](https://arxiv.org/abs/2604.07263) | 2026-04 | arXiv | - | API | 0 |
+| [CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning](https://arxiv.org/abs/2604.08457) | 2026-04 | arXiv | - | 8xA100 | 0 |
+| [VAGNet: Vision-based Accident Anticipation with Global Features](https://arxiv.org/abs/2604.09305) | 2026-04 | arXiv | - | RTX4090 | 0 |
+| [SignReasoner: Compositional Reasoning for Complex Traffic Sign Understanding via Functional Structure Units](https://arxiv.org/abs/2604.10436) | 2026-04 | arXiv | - | 4xH100 | 0 |
+| [CCTVBench: Contrastive Consistency Traffic VideoQA Benchmark for Multimodal LLMs](https://arxiv.org/abs/2604.20460) | 2026-04 | arXiv | - | API | 0 |
+| [Towards Safe Mobility: A Unified Transportation Foundation Model enabled by Open-Ended Vision-Language Dataset (UniVLT / LTD)](https://arxiv.org/abs/2604.22260) | 2026-04 | arXiv | - | 8xH100 | 0 |
+| [EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://arxiv.org/abs/2604.22851) | 2026-04 | arXiv | - | API | 0 |
+| [Zoom In, Reason Out: Efficient Far-field Anomaly Detection in Expressway Surveillance Videos via Focused VLM Reasoning Guided by Bayesian Inference (VIBES)](https://arxiv.org/abs/2604.23724) | 2026-04 | arXiv | - | RTX4090 | 0 |
+| [VLM-VPI: A Vision-Language Reasoning Framework for Improving Automated Vehicle-Pedestrian Interactions](https://arxiv.org/abs/2604.23934) | 2026-04 | arXiv | - | API | 0 |
 </details>
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
@@ -321,6 +335,8 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DriveXQA: Cross-modal Visual Question Answering for Adverse Driving Scene Understanding](https://arxiv.org/abs/2603.11380) | 2026-03 | arXiv | [GitHub](https://github.com/jtjmd/DRIVEXQA) | 4xA100 |0 |
 | [Interpretable Traffic Responsibility from Dashcam Video via Legal Multi-Agent Reasoning](https://arxiv.org/abs/2603.17930) | 2026-03 | arXiv | - | - |0 |
 | [ExpressMind: A Multimodal Pretrained Large Language Model for Expressway Operation](https://arxiv.org/abs/2603.16495) | 2026-03 | arXiv | [GitHub](https://wanderhee.github.io/ExpressMind/) | 8xH20 |0 |
+| [AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models](https://arxiv.org/abs/2604.20878) | 2026-04 | CVPR 2026 Findings | - | 8xA100 | 0 |
+| [XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments](https://arxiv.org/abs/2604.18484) | 2026-04 | arXiv | - | - | 0 |
 </details>
 
 ## 🌟 Diffusion Models for Autonomous Driving
@@ -373,6 +389,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [VLM as Strategist: Adaptive Generation of Safety-critical Testing Scenarios via Guided Diffusion](https://arxiv.org/abs/2512.02844) | 2025-12 | arXiv | - | 8x4090 |0 |
 | [FAR-Drive: Frame-AutoRegressive Video Generation in Closed-Loop Autonomous Driving](https://arxiv.org/abs/2603.14938) | 2026-03 | arXiv | - | - |0 |
 | [Controllable Latent Diffusion for Traffic Simulation](https://arxiv.org/abs/2503.11771) | 2026-03 | arXiv | [GitHub](https://github.com/RoboSafe-Lab/BLM) | - |0 |
+| [ScenarioControl: Vision-Language Controllable Vectorized Latent Scenario Generation](https://arxiv.org/abs/2604.17147) | 2026-04 | arXiv | [Project](https://light.princeton.edu/ScenarioControl) | - | 0 |
 </details>
 
 <details open>
@@ -435,6 +452,8 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) | 2026-03 |ICLR2026 | [GitHub](https://drivinggen-bench.github.io/) |  |0 |
 | [Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation](https://arxiv.org/abs/2603.12864) | 2026-03 |arXiv | [GitHub](https://github.com/Yifever20002/CompoSIA) | 16xH100 |0 |
 | [Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation](https://arxiv.org/pdf/2603.14948) | 2026-03 |arXiv | [GitHub](https://github.com/TabGuigui/WorldDrive) | 16xA100 |0 |
+| [LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving](https://arxiv.org/abs/2604.08719) | 2026-04 | arXiv | - | - | 0 |
+| [HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://arxiv.org/abs/2604.28196) | 2026-04 | arXiv | [GitHub](https://github.com/H-EmbodVis/HERMESV2) | - | 0 |
 </details>
 
 ## 📊 Datasets Comparison

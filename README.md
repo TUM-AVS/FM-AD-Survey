@@ -19,6 +19,7 @@ This repository will collect research, implementations, and resources related to
 <img src="Assets/paper_timeline.png" width="100%" height="auto"/>
 </p>
 
+- **Aug. 2026** – Added **9 new papers** on scenario generation* and **11 new papers** on scenario analysis*.
 - **Jul. 2026** – Added **4 new papers** on scenario generation* and **14 new papers** on scenario analysis*.
 - **Jun. 2026** – Added **33 new papers** on scenario analysis* (monthly backlog catch-up spanning Dec 2023 – Jun 2026).
 - **May 2026** – Added **7 new papers** on scenario generation* and **19 new papers** on scenario analysis*.
@@ -145,6 +146,10 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Traffic Scenario Orchestration from Language via Constraint Satisfaction](https://arxiv.org/abs/2605.06966) | 2026-05 | arXiv | - | - | 0 |
 | [PCASim: Promptable Closed-loop Adversarial Simulation for Urban Traffic Environment](https://arxiv.org/abs/2605.15654) | 2026-05 | arXiv | [Project](https://zhenhaooo.github.io/PCASim.github.io/) | - | 0 |
 | [TrafficAlign: Aligning Large Language Models for Traffic Scenario Generation](https://github.com/TrafficComposer/TrafficAlign) | 2026-06 | CVPR 2026 | [GitHub](https://github.com/TrafficComposer/TrafficAlign) | - | 0 |
+| [REARL: A Closed-loop Autonomous Driving Simulation Enhancement Framework with Real Traffic Data and Large Language Models](https://arxiv.org/abs/2609.19903) | 2026-09 | arXiv | - | - | 0 |
+| [LLM-Guided Transformation of Non-Critical Driving Scenes into Safety-Critical Scenarios Using Augmented Reality](https://arxiv.org/abs/2609.20318) | 2026-09 | arXiv | - | - | 0 |
+| [SimSkill: A Self-Evolving LLM Agent for Skill and Knowledge Accumulation in Traffic Simulation](https://arxiv.org/abs/2609.03753) | 2026-09 | arXiv | [GitHub](https://github.com/qiliuchn/SimSkill-V1) | M1 Max & API | 0 |
+| [PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965) | 2026-09 | EMNLP 2026 | [GitHub](https://github.com/TUM-AVS/PlannerForge) | RTX5090 & API | 0 |
 </details>
 
 <details open>
@@ -171,6 +176,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Pedestrian-Aware LLM-Driven Behavioral Planning for Autonomous Vehicles](https://arxiv.org/abs/2605.16858) | 2026-05 | IEEE ITSC 2026 | - | - | 0 |
 | [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) | 2026-06 | arXiv | - | - | 0 |
 | [A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving](https://arxiv.org/abs/2607.07103) | 2026-07 | arXiv | [GitHub](https://github.com/benmagnifico/K-Risk) | - | 0 |
+| [SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment](https://arxiv.org/abs/2609.20584) | 2026-09 | arXiv | [GitHub](https://github.com/xixi47520-hash/HARA) | API | 0 |
 </details>
 
 ## 🌟 Vision-Language Models for Autonomous Driving
@@ -331,6 +337,10 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding](https://arxiv.org/abs/2607.08745) | 2026-07 | arXiv | - | - | 0 |
 | [DispatchRAG: Grounding Emergency Dispatch Decisions in Real-World Protocols from Traffic Accident Video](https://arxiv.org/abs/2607.23132) | 2026-07 | arXiv | - | - | 0 |
 | [Reasoning to Regulate: Chain-of-Thought for Traffic Rule Understanding](https://arxiv.org/abs/2607.24199) | 2026-07 | arXiv | - | - | 0 |
+| [CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios](https://arxiv.org/abs/2608.19380) | 2026-08 | arXiv | [GitHub](https://github.com/nec-labs-ma/CAViAR) | - | 0 |
+| [Observe Before You Alert: Adaptive Driver Alerting with Vision-Language Models](https://arxiv.org/abs/2609.08130) | 2026-09 | arXiv | - | RTX5090 | 0 |
+| [CrossView: Can Vision-Language Models Reason Across Cameras?](https://arxiv.org/abs/2608.15539) | 2026-08 | arXiv | [GitHub](https://utaustin-swarmlab.github.io/CrossView) | API | 0 |
+| [SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions](https://arxiv.org/abs/2608.24094) | 2026-08 | arXiv | - | V100S | 0 |
 </details>
 
 ## 🌟 Multimodal Large Language Models for Autonomous Driving
@@ -409,6 +419,12 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [OmniSpace: Efficient Geometry Awareness for Autonomous Vehicles MLLMs](https://arxiv.org/abs/2606.22617) | 2026-06 | arXiv | - | - | 0 |
 | [Beyond Scene Priors: Fine-Grained Traffic Scene Reasoning with Benchmarking and Query-Guided Small-Object Focus](https://arxiv.org/abs/2607.04149) | 2026-07 | arXiv | - | - | 0 |
 | [D3VL: Understanding Driving Scenes from 3D Time Series Data and Video with Language Models](https://arxiv.org/abs/2607.19528) | 2026-07 | arXiv | [Project](https://automotivesafety-lvlm.github.io) | - | 0 |
+| [Sim-to-Real Traffic Scene Understanding by Decoupling Semantics from Caption Generation with V-JEPA](https://arxiv.org/abs/2609.18562) | 2026-09 | arXiv | [GitHub](https://github.com/ThuongBuiRVC/Traffic-JEPA) | RTX6000 | 0 |
+| [Inter-3D VQA: A Roadside Multimodal Benchmark for 3D Spatiotemporally Grounded Visual Question Answering](https://arxiv.org/abs/2608.28762) | 2026-08 | arXiv | [GitHub](https://github.com/ASU-Suo-Lab/Inter-3D-VQA) | 4×RTX Pro 6000 | 0 |
+| [UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations](https://arxiv.org/abs/2608.13031) | 2026-08 | arXiv | [GitHub](https://github.com/Roclp/UniTraffic-Agent) | API | 0 |
+| [CASCADE: A Spatio-Temporal-Causal Reasoning Representation and Dataset for Driving](https://arxiv.org/abs/2609.07094) | 2026-09 | arXiv | - | - | 0 |
+| [From Detection to Understanding: TAR and TAR-Bench for Multi-Task Traffic Anomaly Reasoning](https://arxiv.org/abs/2608.10317) | 2026-08 | arXiv | - | 8×A100 | 0 |
+| [Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency](https://arxiv.org/abs/2608.29583) | 2026-08 | arXiv | [GitHub](https://github.com/776styjsu/drive-the-thoughts) | A100 & API | 0 |
 </details>
 
 ## 🌟 Diffusion Models for Autonomous Driving
@@ -465,6 +481,9 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DriveCtrl: Conditioned Sim-to-Real Driving Video Generation](https://arxiv.org/abs/2605.15116) | 2026-05 | arXiv | - | L40 | 0 |
 | [AnyScene: Towards Highly Controllable Driving Scene Generation at Anywhere and Beyond](https://arxiv.org/abs/2605.26113) | 2026-05 | arXiv | [Project](https://mind-omni.github.io/) | 8xA100 | 0 |
 | [SafeGen: Goal-Conditioned Video Diffusion of Safety-Critical Scenarios for VLM-Based Autonomous Driving](https://arxiv.org/abs/2607.19701) | 2026-07 | arXiv | [GitHub](https://github.com/JoFrc/SafeGen) | - | 0 |
+| [One Diffusion Model, Two Roles: Guided Trajectory Planning and Safety-Critical Scenario Generation in Closed-Loop Simulation](https://arxiv.org/abs/2609.04921) | 2026-09 | arXiv | - | - | 0 |
+| [CrashDiffuser: VLM-Guided Collision Intent Reasoning for Fine-Grained Safety-Critical Traffic Scenario Generation](https://arxiv.org/abs/2609.02270) | 2026-09 | arXiv | - | H200 | 0 |
+| [Safety-Critical Scenanrio Emerges from Initial Scene](https://arxiv.org/abs/2609.20103) | 2026-09 | arXiv | - | - | 0 |
 </details>
 
 <details open>
@@ -534,6 +553,8 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving](https://arxiv.org/abs/2605.18137) | 2026-05 | arXiv | [Project](https://JointWM.github.io) | - | 0 |
 | [Diffusion Transformer World-Action Model for AV Scene Prediction](https://arxiv.org/abs/2606.12987) | 2026-06 | arXiv | [GitHub](https://github.com/dlcv-team/latent-world-models-av) | - | 0 |
 | [ReactSim-Bench: Benchmarking Reactive Behavior World Model Simulation in Autonomous Driving](https://arxiv.org/abs/2606.14058) | 2026-06 | arXiv | [GitHub](https://github.com/Thinklab-SJTU/ReactSim-Bench) | - | 0 |
+| [GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation](https://arxiv.org/abs/2608.16234) | 2026-08 | arXiv | [GitHub](https://github.com/dtc111111/GaussianDWM) | 16×A100 | 0 |
+| [4D-WAM: 4D Consistent World Modeling for Autonomous Driving](https://arxiv.org/abs/2608.10107) | 2026-08 | arXiv | - | 16×H200 | 0 |
 </details>
 
 ## 📊 Datasets Comparison

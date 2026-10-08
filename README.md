@@ -547,6 +547,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) | 2026-03 |ICLR2026 | [GitHub](https://drivinggen-bench.github.io/) |  |0 |
 | [Composing Driving Worlds through Disentangled Control for Adversarial Scenario Generation](https://arxiv.org/abs/2603.12864) | 2026-03 |arXiv | [GitHub](https://github.com/Yifever20002/CompoSIA) | 16xH100 |0 |
 | [Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation](https://arxiv.org/pdf/2603.14948) | 2026-03 |arXiv | [GitHub](https://github.com/TabGuigui/WorldDrive) | 16xA100 |0 |
+| [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) | 2026-04 | ECCV 2026 | [GitHub](https://github.com/xiaomi-mlab/DriveVA) | - | - |
 | [LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving](https://arxiv.org/abs/2604.08719) | 2026-04 | arXiv | - | - | 0 |
 | [HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation](https://arxiv.org/abs/2604.28196) | 2026-04 | arXiv | [GitHub](https://github.com/H-EmbodVis/HERMESV2) | - | 0 |
 | [Is Your Driving World Model an All-Around Player? (WorldLens)](https://arxiv.org/abs/2605.10858) | 2026-05 | arXiv | - | - | 0 |

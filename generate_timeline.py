@@ -77,12 +77,13 @@ def generate_timeline_plot(papers, output_path):
 
     # Create year-month keys and count by category
     categories = ["LLM", "VLM", "MLLM", "Diffusion Model", "World Model"]
+    # TUM corporate colours, as in the paper's Fig. "Publication Timeline" (Assets/timeline.png)
     colors = {
-        "LLM": "#4ECDC4",
-        "VLM": "#FF6B6B",
-        "MLLM": "#45B7D1",
-        "Diffusion Model": "#96CEB4",
-        "World Model": "#FFEAA7",
+        "LLM": "#0065BD",
+        "VLM": "#98C6EA",
+        "MLLM": "#A2AD00",
+        "Diffusion Model": "#999999",
+        "World Model": "#E37222",
     }
 
     # Find date range
@@ -112,52 +113,53 @@ def generate_timeline_plot(papers, output_path):
     total_per_month = [sum(counts[cat][i] for cat in categories) for i in range(len(months))]
     cumulative = np.cumsum(total_per_month)
 
-    # Plot
-    fig, ax1 = plt.subplots(figsize=(16, 6))
+    # Plot -- styled after the pgfplots timeline figure of the paper (Assets/timeline.png):
+    # serif type, thin stacked bars, black cumulative line with dot markers, every month
+    # labelled, legend below the axes, no title.
+    plt.rcParams.update({
+        "font.family": "serif",
+        "font.serif": ["Times New Roman", "Nimbus Roman", "TeX Gyre Termes", "STIXGeneral", "DejaVu Serif"],
+        "mathtext.fontset": "stix",
+    })
+    fig, ax1 = plt.subplots(figsize=(16, 5.6))
 
     x = np.arange(len(months))
-    bar_width = 0.8
+    bar_width = 0.28
 
     # Stacked bars
     bottom = np.zeros(len(months))
     for cat in categories:
         values = np.array(counts[cat])
-        ax1.bar(x, values, bar_width, bottom=bottom, label=cat, color=colors[cat], edgecolor="white", linewidth=0.3)
+        ax1.bar(x, values, bar_width, bottom=bottom, label=cat, color=colors[cat], linewidth=0, zorder=2)
         bottom += values
 
-    ax1.set_xlabel("Date", fontsize=12)
-    ax1.set_ylabel("Number of Papers (per month)", fontsize=12, color="black")
-
-    # X-axis: show every 3rd month label
-    tick_positions = list(range(0, len(months), 3))
-    ax1.set_xticks(tick_positions)
-    ax1.set_xticklabels([month_labels[i] for i in tick_positions], rotation=45, ha="right", fontsize=9)
+    ax1.set_xlabel("Publication Month", fontsize=15, labelpad=8)
+    ax1.set_ylabel("Number of Papers", fontsize=15)
+    ax1.set_xlim(-0.6, len(months) - 0.4)
+    ax1.set_ylim(0, max(total_per_month) * 1.1)
+    ax1.set_xticks(x)
+    ax1.set_xticklabels(month_labels, rotation=60, ha="right", rotation_mode="anchor", fontsize=11)
+    ax1.tick_params(axis="y", labelsize=14)
+    ax1.tick_params(axis="both", direction="out", length=5, color="black")
+    ax1.tick_params(axis="x", top=True, labeltop=False)
 
     # Cumulative line on secondary axis
     ax2 = ax1.twinx()
-    ax2.plot(x, cumulative, color="#E74C3C", linewidth=2.5, marker="", label="Cumulative Total")
-    ax2.set_ylabel("Cumulative Number of Papers", fontsize=12, color="#E74C3C")
-    ax2.tick_params(axis="y", labelcolor="#E74C3C")
+    ax2.plot(x, cumulative, color="black", linewidth=1.6, marker="o", markersize=5, label="Cumulative", zorder=3)
+    ax2.set_ylabel("Cumulative Paper Count", fontsize=15)
+    ax2.set_ylim(0, cumulative[-1] * 1.1)
+    ax2.tick_params(axis="y", labelsize=14, direction="out", length=5)
+    for ax in (ax1, ax2):
+        for spine in ax.spines.values():
+            spine.set_linewidth(1.0)
+            spine.set_color("black")
 
-    # Add total count annotation at the end
-    ax2.annotate(
-        f"{int(cumulative[-1])} papers",
-        xy=(x[-1], cumulative[-1]),
-        xytext=(x[-1] - 3, cumulative[-1] + 15),
-        fontsize=11,
-        fontweight="bold",
-        color="#E74C3C",
-        arrowprops=dict(arrowstyle="->", color="#E74C3C", lw=1.5),
-    )
-
-    # Legends
+    # Legend below the axes
     lines1, labels1 = ax1.get_legend_handles_labels()
     lines2, labels2 = ax2.get_legend_handles_labels()
-    ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper left", fontsize=10, framealpha=0.9)
-
-    ax1.set_title("Publication Timeline: Foundation Models for AD Scenario Generation & Analysis", fontsize=14, fontweight="bold", pad=15)
-    ax1.grid(axis="y", alpha=0.3)
-    ax1.set_axisbelow(True)
+    leg = ax1.legend(lines1 + lines2, labels1 + labels2, loc="upper center", bbox_to_anchor=(0.5, -0.30),
+                     ncol=len(labels1) + 1, fontsize=14, frameon=False, handlelength=1.0, handleheight=1.0,
+                     columnspacing=2.2, prop={"weight": "bold", "size": 14})
 
     plt.tight_layout()
     plt.savefig(output_path, dpi=200, bbox_inches="tight", facecolor="white")

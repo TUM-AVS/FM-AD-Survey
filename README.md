@@ -162,6 +162,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 
 | Paper | Date | Venue | Code | Hardware |  Citation |
 |:------|:-----|:------|:-----|:---------|:---------|
+| [PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving](https://arxiv.org/abs/2609.08965) | 2026-09 | EMNLP 2026 | [GitHub](https://github.com/TUM-AVS/PlannerForge) | RTX5090 & API | 1 |
 | [SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment](https://arxiv.org/abs/2609.20584) | 2026-09 | EMNLP 2026 Industry Track | [GitHub](https://github.com/xixi47520-hash/HARA) | API | 0 |
 | [A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving](https://arxiv.org/abs/2607.07103) | 2026-07 | arXiv | [GitHub](https://github.com/benmagnifico/K-Risk) | - | 4 |
 | [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) | 2026-06 | arXiv | - | - | 0 |
@@ -470,8 +471,8 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios](https://arxiv.org/abs/2505.11247) | 2025-05 | arXiv | - | RTX4090 | 25 |
 | [DualDiff: Dual-branch Diffusion Model for Autonomous Driving with Semantic Fusion](https://arxiv.org/abs/2505.01857) | 2025-05 | ICRA 2025  | [GitHub](https://github.com/yangzhaojason/DualDiff) | - | 8 |
 | [Decoupled Diffusion Sparks Adaptive Scene Generation](https://arxiv.org/abs/2504.10485) | 2025-04 | ICCV 2025 | [GitHub](https://github.com/OpenDriveLab/Nexus) | A100 | 19 |
-| [DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer](https://arxiv.org/abs/2504.00000) | 2025-04 | arXiv | - | 8xA800 |4 |
-| [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2504.19614) | 2025-03 | arXiv | - | - |4 |
+| [DiVE: Efficient Multi-View Driving Scenes Generation Based on Video Diffusion Transformer](https://arxiv.org/abs/2504.19614) | 2025-04 | arXiv | - | 8xA800 | 14 |
+| [DriveGen: Towards Infinite Diverse Traffic Scenarios with Large Models](https://arxiv.org/abs/2503.05808) | 2025-03 | arXiv | - | - | 13 |
 | [Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments](https://arxiv.org/abs/2503.22496) | 2025-03 | CVPR 2025 | [GitHub](https://github.com/princeton-computational-imaging/scenario-dreamer) | 8xA100 | 47 |
 | [DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance](https://arxiv.org/abs/2503.03689) | 2025-03 | arXiv | [GitHub](https://github.com/yangzhaojason/DualDiff) | 8xA800 | 7 |
 | [AVD2: Accident Video Diffusion for Accident Video Description](https://arxiv.org/pdf/2502.14801) | 2025-03 | ICRA 2025 | [GitHub](https://github.com/An-Answer-tree/AVD2) | - | 28 |
@@ -554,7 +555,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [DeepVerse: 4D Autoregressive Video Generation as a World Model](https://arxiv.org/abs/2506.01103) | 2025-06 | arXiv | [GitHub](https://github.com/SOTAMak1r/DeepVerse) | A100 | 49 |
 | [STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation](https://www.arxiv.org/abs/2506.13138) | 2025-06 | IROS 2025 | - | - | 7 |
 | [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) | 2025-06 | ICCV 2025 | [GitHub](https://kevin-thu.github.io/Epona/) | 48xA100 | 177 |
-| [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2412.12129) | 2025-06 | CVPR 2025 | - | - |6 |
+| [SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model](https://arxiv.org/abs/2506.21976) | 2025-06 | CVPR 2025 | - | - | 34 |
 | [ReSim: Reliable World Simulation for Autonomous Driving](https://arxiv.org/abs/2506.09981) | 2025-06 | arXiv | [GitHub]([https://opendrivelab.com/ReSim](https://opendrivelab.com/ReSim)) |  40xA100 | 61 |
 | [ProphetDWM: A Driving World Model for Rolling Out Future Actions and Videos](https://arxiv.org/abs/2505.18650) | 2025-05 | arXiv | - | 4xA100 | 10 |
 | [PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth](https://arxiv.org/abs/2505.01729) | 2025-05 | IROS 2025 | - | 8xA100 | 5 |
@@ -575,7 +576,7 @@ The figure illustrates the evolution of foundation models. **LLMs** (e.g., BERT,
 | [ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration](https://arxiv.org/abs/2411.19548) | 2024-11 | CVPR 2025 | [GitHub](https://github.com/GigaAI-research/ReconDreamer) | - | 116 |
 | [DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation](https://arxiv.org/abs/2410.13571) | 2024-11 | CVPR 2025 | [GitHub](https://github.com/GigaAI-research/DriveDreamer4D) | H20 | 156 |
 | [DriveArena: A Closed-loop Generative Simulation Platform for Autonomous Driving](https://arxiv.org/abs/2408.00415) | 2024-08 | arXiv | [GitHub](https://github.com/PJLab-ADG/DriveArena) | 8xA100 | 119 |
-| [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2408.07605) | 2024-08 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | - |127 |
+| [Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2408.07605) | 2024-08 | CVPR 2024 | [GitHub](https://github.com/wenyuqing/panacea) | - | 4 |
 | [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) | 2024-08 | ECCV 2024 | [GitHub](https://github.com/fudan-zvg/WoVoGen) | 8xA6000 | 124 |
 | [UniScene: Multi-Camera Unified Pre-training via 3D Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2305.18829) | 2024-08 | RAL 2024 | [GitHub](https://github.com/chaytonmin/UniScene) | 8xA40 | 32 |
 | [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) | 2024-05 | AAAI 2025 | [GitHub](https://github.com/f1yfisher/DriveDreamer2) | A800 | 255 |
